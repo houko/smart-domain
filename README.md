@@ -12,7 +12,7 @@ AI-powered intelligent domain name generation and management platform that helps
 [![Supabase](https://img.shields.io/badge/Supabase-Database-green?style=flat-square&logo=supabase)](https://supabase.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-[Live Demo](https://smart-domain.vercel.app) | [API Documentation](docs/API.md) | [Contributing](#-contributing)
+[Live Demo](https://smart-domain.com) | [API Documentation](docs/API.md) | [Contributing](#-contributing)
 
 </div>
 
@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [https://smart-domain.vercel.app](https://smart-domain.vercel.app)
+- **Live Demo**: [https://smart-domain.com](https://smart-domain.com)
 - **Issues**: [GitHub Issues](https://github.com/houko/smart-domain/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/houko/smart-domain/discussions)
 
