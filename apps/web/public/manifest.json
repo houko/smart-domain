@@ -1,0 +1,65 @@
+{
+  "name": "Smart Domain Generator",
+  "short_name": "SmartDomain",
+  "description": "智能域名生成器 - AI驱动的项目命名和域名建议系统",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "categories": ["business", "developer", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/desktop-main.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "智能域名生成主界面"
+    },
+    {
+      "src": "/screenshots/mobile-main.png",
+      "sizes": "375x667",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "移动端域名生成界面"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "生成域名",
+      "short_name": "生成",
+      "description": "快速生成智能域名建议",
+      "url": "/?action=generate",
+      "icons": [{ "src": "/favicon.svg", "sizes": "96x96" }]
+    },
+    {
+      "name": "API文档",
+      "short_name": "API",
+      "description": "查看API接口文档",
+      "url": "/settings/api-keys",
+      "icons": [{ "src": "/favicon.svg", "sizes": "96x96" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
+}

@@ -1,0 +1,25 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="favicon-gradient-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+    <linearGradient id="favicon-gradient-2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="32" height="32" rx="8" fill="#FAFAFA" />
+  
+  <!-- Main Shape - Abstract D -->
+  <path d="M8 8 H16 C20.418 8 24 11.582 24 16 C24 20.418 20.418 24 16 24 H8 V8 Z" fill="url(#favicon-gradient-1)" />
+  
+  <!-- Inner Shape -->
+  <path d="M12 12 H16 C18.209 12 20 13.791 20 16 C20 18.209 18.209 20 16 20 H12 V12 Z" fill="#FAFAFA" />
+  
+  <!-- Accent Dot -->
+  <circle cx="22" cy="10" r="2" fill="url(#favicon-gradient-2)" />
+</svg>

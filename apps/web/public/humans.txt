@@ -1,0 +1,44 @@
+# Smart Domain Generator - humans.txt
+
+/* TEAM */
+Developer: Smart Domain Team
+Contact: hello@smart-domain.com
+Twitter: @smartdomain
+Location: Japan
+
+/* THANKS */
+AI Technology: OpenAI GPT
+UI Framework: Next.js, React
+UI Components: shadcn/ui, Radix UI
+Authentication: Supabase Auth
+Database: Supabase PostgreSQL
+Deployment: Vercel
+Analytics: Vercel Analytics
+
+/* SITE */
+Last update: 2024/07/20
+Language: Chinese, English
+Doctype: HTML5
+IDE: VSCode, Cursor
+Technologies: TypeScript, Next.js 14, React 18, Tailwind CSS
+Standards: HTML5, CSS3, ES2023, WCAG 2.1
+Components: shadcn/ui, Lucide React
+Tools: Biome, ESLint, Prettier
+
+/* FEATURES */
+- AI-powered domain generation
+- Real-time domain availability checking
+- Batch domain queries
+- Domain favorites and history
+- RESTful API access
+- Responsive design
+- Dark/Light theme support
+- Google OAuth authentication
+
+/* CONTACT */
+Website: https://smart-domain.com
+Email: hello@smart-domain.com
+Support: support@smart-domain.com
+Security: security@smart-domain.com
+
+Built with ❤️ and YLDM

@@ -1,0 +1,1189 @@
+{
+  "metadata": {
+    "title": "ネーミングアシスタント - プロジェクトに最適な名前を",
+    "description": "アイデアを伝えるだけで、AIが最適なプロジェクト名とドメインを提案"
+  },
+  "logo": {
+    "title": "Smart Domain",
+    "subtitle": "ネーミングアシスタント"
+  },
+  "nav": {
+    "home": "ホーム",
+    "settings": "設定",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "dashboard": "ダッシュボード",
+    "favorites": "お気に入り",
+    "history": "履歴"
+  },
+  "home": {
+    "title": "ネーミングアシスタント",
+    "subtitle": "素敵なネーミングをかんたんに",
+    "description": "アイデアを教えてください",
+    "placeholder": "例：ペットの写真を共有できるコミュニティサイトを作りたい",
+    "generateButton": "アイデアを提案",
+    "generating": "考え中...",
+    "generateError": "エラーが発生しました",
+    "generateErrorDesc": "しばらくしてからもう一度お試しください",
+    "searchButton": "検索",
+    "results": {
+      "title": "こんな名前はいかがでしょう",
+      "foundSuggestions": "{count}個のアイデアが見つかりました",
+      "myFavorites": "お気に入り",
+      "searchHistory": "検索履歴"
+    },
+    "analysis": {
+      "title": "あなたのアイデアを理解しました",
+      "keywords": "キーワード："
+    },
+    "domains": {
+      "purchase": "購入",
+      "availableCount": "利用可能なドメイン：{count}個"
+    },
+    "favorites": {
+      "added": "お気に入りに追加",
+      "addedDesc": "ドメイン {domain} をお気に入りに追加しました",
+      "removed": "お気に入りから削除",
+      "removedDesc": "ドメイン {domain} をお気に入りから削除しました"
+    },
+    "hero": {
+      "findPerfect": "あなたのプロジェクトに",
+      "domain": "最適な名前を",
+      "subtitle": "アイデアを伝えるだけで、AIが最適なプロジェクト名を提案。ドメインの利用可否もすぐに確認できます。",
+      "startButton": "今すぐ試す"
+    },
+    "whyChooseUs": {
+      "title": "ネーミングを簡単に",
+      "subtitle": "良い名前の重要性を理解し、最適な名前を見つけるお手伝いをします",
+      "badge": "コアアドバンテージ"
+    },
+    "features": {
+      "aiAnalysis": {
+        "title": "あなたのアイデアを理解",
+        "description": "すべてのアイデアに込められたストーリーを理解します",
+        "content": "あなたのアイデアを教えていただければ、何を伝えたいのかを理解し、適切で覚えやすい名前を生成します。まるで友人と話しているかのように自然です。"
+      },
+      "multiStrategy": {
+        "title": "無限のクリエイティビティ",
+        "description": "あなたにぴったりの名前が必ず見つかります",
+        "content": "さまざまな方法でアイデアを組み合わせ、新しい言葉を作り、意外な組み合わせを発見します。すべての提案はユニークで意味があり、きっとピンとくるものがあるはずです。"
+      },
+      "realTimeQuery": {
+        "title": "すぐに結果がわかる",
+        "description": "ドメインの利用可否を瞬時に確認",
+        "content": "気に入った名前を選んだら、対応するドメインが登録可能かどうかをすぐに確認できます。価格も表示され、見つけたら直接登録ページへジャンプできるので、チャンスを逃しません。"
+      },
+      "smartFavorites": {
+        "title": "スマートなお気に入り管理",
+        "description": "気に入った名前をすべて保存",
+        "content": "気に入った名前があれば、お気に入りに保存してじっくり選べます。メモを追加したり、カテゴリで管理したり、ドメインステータスの変化も通知します。",
+        "statsText": "{count}個の名前がお気に入り登録されています"
+      },
+      "searchHistory": {
+        "title": "アイデアは失われない",
+        "description": "すべてのクリエイティブがここに",
+        "content": "検索履歴がすべて保存され、いつでも振り返れます。今日のアイデアと先週のクリエイティブも、簡単に見つけて比較できます。",
+        "statsText": "今日は{count}回のネーミングをサポートしました"
+      },
+      "secure": {
+        "title": "安心してお使いいただけます",
+        "description": "あなたのアイデアを守ります",
+        "content": "あなたのアイデアと検索履歴は安全に保存され、あなただけが閲覧できます。データのエクスポートも可能で、すべてがあなたのコントロール下にあります。"
+      }
+    },
+    "stats": {
+      "title": "みんなが使っています",
+      "badge": "リアルタイムデータ",
+      "usersHelped": "{count}人のユーザーが満足する名前を見つけました",
+      "usersHelpedDefault": "多くの人が満足する名前を見つけています",
+      "domainsGenerated": "個の素敵な名前",
+      "usersTrust": "人のユーザー",
+      "availability": "安定稼働",
+      "onlineService": "いつでも利用可能"
+    },
+    "cta": {
+      "title": "プロジェクトに素敵な名前をつけましょう",
+      "subtitle": "今すぐ試してみてください、次の素敵な名前はあなたのものかもしれません",
+      "startButton": "ネーミングを始める",
+      "demoButton": "使い方を見る"
+    }
+  },
+  "settings": {
+    "title": "設定",
+    "subtitle": "アカウントと設定の管理",
+    "general": "一般設定",
+    "apiKeys": "APIキー",
+    "billing": "サブスクリプション管理",
+    "favorites": "お気に入り",
+    "history": "検索履歴",
+    "preferences": "設定",
+    "security": "セキュリティ設定",
+    "navigation": {
+      "account": "アカウント",
+      "domainFavorites": "ドメインお気に入り",
+      "searchHistory": "検索履歴",
+      "preferences": "設定",
+      "security": "セキュリティ",
+      "apiKeys": "APIキー",
+      "subscription": "サブスクリプション"
+    }
+  },
+  "apiKeys": {
+    "title": "APIキー管理",
+    "subtitle": "APIアクセスキーの管理",
+    "createButton": "APIキーを作成",
+    "noKeys": "APIキーがありません",
+    "noKeysDescription": "最初のAPIキーを作成してAPIを使い始めましょう",
+    "usage": "使用方法",
+    "usageDescription": "リクエストヘッダーにAPIキーを含めてAPIにアクセスします",
+    "examples": "コード例",
+    "healthCheck": "ヘルスチェック",
+    "copy": "コピー",
+    "copySuccess": "コピーしました",
+    "createTitle": "新しいAPIキーを作成",
+    "createDescription": "アプリケーション用の新しいAPIアクセスキーを作成します",
+    "keyName": "名前",
+    "keyNamePlaceholder": "例：本番環境キー",
+    "keyDescription": "説明（オプション）",
+    "keyDescriptionPlaceholder": "このキーの用途を説明",
+    "cancel": "キャンセル",
+    "create": "作成",
+    "creating": "作成中...",
+    "newKeyTitle": "新しいAPIキー",
+    "newKeyDescription": "APIキーを今すぐコピーして安全に保管してください。セキュリティのため、一度しか表示されません。",
+    "newKeyWarning": "このキーは二度と表示されません。紛失した場合は新しいキーを生成する必要があります。",
+    "saved": "保存しました",
+    "monthlyUsage": "今月の使用回数: {count} 回",
+    "createdAt": "作成日時",
+    "lastUsed": "最終使用日時",
+    "viewUsage": "使用状況を見る",
+    "delete": "削除",
+    "deleteConfirm": "このAPIキーを削除してもよろしいですか？",
+    "deleteDescription": "削除後、このキーを使用しているアプリケーションはAPIにアクセスできなくなります。この操作は取り消せません。",
+    "loadFailed": "読み込みエラー",
+    "loadFailedDescription": "APIキーリストを読み込めませんでした",
+    "nameRequired": "名前を入力してください",
+    "nameRequiredDescription": "APIキー名は必須です",
+    "notLoggedIn": "ログインしていません",
+    "createSuccess": "作成成功",
+    "createSuccessDescription": "APIキーを安全に保管してください。一度しか表示されません",
+    "createFailed": "作成失敗",
+    "createFailedDescription": "APIキーを作成できませんでした。もう一度お試しください",
+    "deleteSuccess": "削除成功",
+    "deleteSuccessDescription": "APIキーを削除しました",
+    "deleteFailed": "削除失敗",
+    "deleteFailedDescription": "APIキーを削除できませんでした。もう一度お試しください",
+    "copySuccessDescription": "APIキーをクリップボードにコピーしました",
+    "copyFailed": "コピー失敗",
+    "copyFailedDescription": "クリップボードにコピーできませんでした",
+    "curlCopyDescription": "YOUR_API_KEY を実際のキーに置き換えてください",
+    "copyCurlCommand": "cURLコマンドをコピー",
+    "usageInstructions": {
+      "title": "APIキーの使用方法",
+      "description": "リクエストヘッダーにAPIキーを含めてAPIにアクセスします",
+      "authorizationHeader": "Authorization: Bearer YOUR_API_KEY",
+      "codeExamples": "コード例",
+      "healthCheckTitle": "APIヘルスチェック",
+      "healthCheckButton": "APIステータスを確認",
+      "healthCheckCopy": "ヘルスチェックコマンドをコピー",
+      "healthCheckSuccess": "サービス正常",
+      "healthCheckSuccessDesc": "APIサービスは正常に動作しています ({status})",
+      "healthCheckError": "サービス異常",
+      "healthCheckErrorDesc": "サービスステータスに異常があります",
+      "healthCheckFailed": "チェック失敗",
+      "healthCheckFailedDesc": "APIサービスに接続できませんでした",
+      "healthCheckCopySuccess": "ヘルスチェックコマンドをコピーしました",
+      "healthCheckCodeCopySuccess": "ヘルスチェックコードをコピーしました",
+      "expectedResponse": "期待されるレスポンス",
+      "smartHomeExample": "スマートホーム制御システム",
+      "notes": {
+        "apiKeyAuth": "APIキーはアプリケーションの認証に使用されます",
+        "secureStorage": "クライアントコードでAPIキーを公開しないでください",
+        "keyRotation": "セキュリティ向上のため、定期的にAPIキーを更新してください",
+        "rateLimits": "各キーのリクエスト制限はサブスクリプションプランによって異なります"
+      }
+    },
+    "usageDialog": {
+      "title": "API使用状況",
+      "subtitle": "直近100件の呼び出し記録",
+      "noRecords": "使用記録がありません",
+      "tableHeaders": {
+        "time": "時間",
+        "endpoint": "エンドポイント",
+        "method": "メソッド",
+        "status": "ステータス",
+        "ipAddress": "IPアドレス"
+      },
+      "close": "閉じる"
+    }
+  },
+  "preferences": {
+    "title": "プリファレンス設定",
+    "subtitle": "使用体験をカスタマイズ",
+    "saveButton": "設定を保存",
+    "saving": "保存中...",
+    "saveSuccess": "保存成功",
+    "saveSuccessDesc": "設定が更新されました",
+    "saveFailed": "保存失敗",
+    "saveFailedDesc": "設定を保存できませんでした。もう一度お試しください",
+    "notifications": {
+      "title": "通知設定",
+      "subtitle": "通知の設定を管理",
+      "emailNotifications": {
+        "label": "メール通知",
+        "description": "重要なアップデートやリマインダーを受け取る"
+      },
+      "domainAlerts": {
+        "label": "ドメインアラート",
+        "description": "フォロー中のドメインが利用可能になったときに通知を受け取る"
+      },
+      "newsletter": {
+        "label": "ニュースレター",
+        "description": "製品アップデートやお得な情報を受け取る"
+      }
+    },
+    "display": {
+      "title": "表示設定",
+      "subtitle": "インターフェース表示のカスタマイズ",
+      "language": {
+        "label": "言語",
+        "options": {
+          "zh-CN": "中国語（簡体字）",
+          "zh-TW": "中国語（繁体字）",
+          "en-US": "English",
+          "ja-JP": "日本語"
+        }
+      },
+      "resultCount": {
+        "label": "デフォルト結果数",
+        "options": {
+          "5": "5件",
+          "10": "10件",
+          "20": "20件",
+          "50": "50件"
+        }
+      }
+    },
+    "features": {
+      "title": "機能設定",
+      "subtitle": "特定機能の有効/無効化",
+      "autoSave": {
+        "label": "自動保存",
+        "description": "検索履歴とお気に入りを自動的に保存"
+      }
+    }
+  },
+  "billing": {
+    "title": "サブスクリプション管理",
+    "subtitle": "サブスクリプションの管理と使用状況の確認",
+    "currentPlan": "現在のプラン",
+    "currentPlanDescription": "現在のプラン：{plan}",
+    "active": "アクティブ",
+    "monthlyQuota": "月間{limit}回のクエリ制限",
+    "unlimitedQuota": "無制限クエリ",
+    "usedQuota": "今月の使用：{used} / {limit}回",
+    "usedQuotaUnlimited": "今月の使用：{used} / 無制限",
+    "usageWarning": "利用枠の{percentage}%を使用しました",
+    "upgrade": "プランをアップグレード",
+    "upgradeButton": "アップグレード",
+    "currentPlanButton": "現在のプラン",
+    "upgradeComingSoon": "アップグレード機能は近日公開予定",
+    "upgradeDescription": "アップグレード機能は開発中です。しばらくお待ちください",
+    "billingHistory": "請求履歴",
+    "billingHistoryDescription": "支払い記録を確認",
+    "noBillingHistory": "請求履歴がありません",
+    "currentUsage": "現在の使用状況",
+    "currentUsageDescription": "今月のクエリ使用統計",
+    "domainQuery": "ドメインクエリ",
+    "usageResetOn": "使用量は{date}にリセットされます",
+    "subscriptionPlans": "サブスクリプションプラン",
+    "upgradeSuccess": "アップグレード成功",
+    "upgradeSuccessDescription": "新しいプランにアップグレードしました",
+    "upgradeFailed": "アップグレード失敗",
+    "upgradeFailedDescription": "プランをアップグレードできませんでした。もう一度お試しください",
+    "perMonth": "/月",
+    "plans": {
+      "free": "フリープラン",
+      "pro": "プロプラン",
+      "enterprise": "エンタープライズ",
+      "popular": "人気プラン"
+    },
+    "features": {
+      "monthlyQueries50": "月間50回のドメインクエリ",
+      "monthlyQueries500": "月間500回のドメインクエリ",
+      "unlimitedQueries": "無制限ドメインクエリ",
+      "basicAI": "ベーシックAI提案",
+      "advancedAI": "アドバンスドAI分析",
+      "enterpriseAI": "エンタープライズAI分析",
+      "searchHistory7Days": "検索履歴（7日間）",
+      "unlimitedHistory": "無制限検索履歴",
+      "batchQuery": "バッチクエリ",
+      "batchQuery50": "バッチクエリ（最大50件）",
+      "batchQueryUnlimited": "バッチクエリ（無制限）",
+      "apiAccess": "APIアクセス",
+      "fullApiAccess": "完全なAPIアクセス",
+      "prioritySupport": "優先サポート",
+      "support247": "24/7専用サポート",
+      "customDomainSuggestions": "カスタムドメイン提案",
+      "dataExport": "完全なデータエクスポート",
+      "customSolutions": "カスタムソリューション"
+    }
+  },
+  "security": {
+    "title": "セキュリティ設定",
+    "subtitle": "アカウントのセキュリティとログインセッションの管理",
+    "account": {
+      "title": "アカウント情報",
+      "subtitle": "ログイン方法とアカウント詳細",
+      "loginMethod": "ログイン方法",
+      "googleAccount": "Googleアカウント",
+      "googleSecurity": "Googleセキュリティ設定",
+      "protectedBy": "あなたのアカウントはGoogle OAuthで保護されています。パスワード、2段階認証などのすべてのセキュリティ設定はGoogleで管理されています。",
+      "manageGoogle": "パスワードの変更、2段階認証の有効化には、Googleアカウントのセキュリティ設定をご確認ください。"
+    },
+    "sessions": {
+      "title": "アクティブセッション",
+      "subtitle": "現在のログインセッションのデバイスと位置情報を確認",
+      "loading": "セッション情報を取得中...",
+      "noSessions": "アクティブセッションがありません",
+      "currentDevice": "現在のデバイス",
+      "currentActive": "現在アクティブ",
+      "signOutTitle": "このセッションからログアウト",
+      "unknown": {
+        "location": "不明な場所",
+        "ip": "不明",
+        "device": "不明なデバイス",
+        "browser": "不明なブラウザ"
+      },
+      "device": "デバイス",
+      "ipInfo": "IP情報を取得できません",
+      "loadFailed": "セッションの読み込みに失敗しました"
+    },
+    "actions": {
+      "title": "アカウント操作",
+      "subtitle": "ログイン状態の管理",
+      "signOutAllTitle": "すべてのデバイスからログアウト",
+      "signOutAllDesc": "すべてのデバイスからログアウトします。アカウントにアクセスするには再度ログインが必要です。",
+      "signOutButton": "すべてのデバイスからログアウト",
+      "signOutSuccess": "ログアウトしました",
+      "signOutSuccessDesc": "正常にログアウトしました",
+      "signOutFailed": "ログアウト失敗",
+      "signOutFailedDesc": "ログアウトできませんでした。もう一度お試しください"
+    },
+    "recommendations": {
+      "title": "セキュリティ推奨事項",
+      "subtitle": "アカウントを安全に保つためのベストプラクティス",
+      "tips": {
+        "twoFactor": "Googleアカウントで2段階認証を有効にする",
+        "checkSessions": "定期的に現在のセッション情報を確認し、本人の操作であることを確認する",
+        "signOutPublic": "見知らぬデバイスで使用後は必ずログアウトする",
+        "noPublicDevices": "公共のデバイスでログイン状態を保持しない",
+        "checkActivity": "Googleアカウントのセキュリティアクティビティを定期的に確認する",
+        "changePassword": "不審なログイン活動を発見した場合は、すぐにGoogleアカウントのパスワードを変更する"
+      }
+    }
+  },
+  "auth": {
+    "login": "ログイン",
+    "loginTitle": "おかえりなさい",
+    "loginSubtitle": "アカウントにログイン",
+    "loginWithGoogle": "Googleでログイン",
+    "loginWithGitHub": "GitHubでログイン",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "noAccount": "アカウントをお持ちでない方は",
+    "signUp": "新規登録",
+    "signUpTitle": "アカウント作成",
+    "signUpSubtitle": "Smart Domainを使い始める",
+    "haveAccount": "既にアカウントをお持ちですか？",
+    "loading": "読み込み中...",
+    "unauthorized": "ログインが必要です"
+  },
+  "domainGenerator": {
+    "validation": {
+      "minLength": "説明は5文字以上で入力してください",
+      "maxLength": "説明は500文字以内で入力してください"
+    },
+    "title": "プロジェクトのアイデアを教えてください",
+    "subtitle": "プロジェクトの説明を入力すると、AIが適切なプロジェクト名とドメイン提案を生成します",
+    "placeholder": "例：ペットオーナーが写真や日常を共有できるソーシャルアプリを作りたい",
+    "generateButton": "提案を生成",
+    "generating": "生成中...",
+    "generateError": "生成に失敗しました",
+    "generateErrorDesc": "ドメイン提案の生成中にエラーが発生しました。しばらくしてからもう一度お試しください",
+    "results": {
+      "title": "検索結果",
+      "foundSuggestions": "{count}個のプロジェクト提案が見つかりました",
+      "myFavorites": "お気に入り",
+      "searchHistory": "検索履歴"
+    },
+    "analysis": {
+      "title": "AI分析結果",
+      "keywords": "抽出されたキーワード："
+    },
+    "domains": {
+      "purchase": "購入",
+      "availableCount": "利用可能なドメイン：{count}個"
+    },
+    "favorites": {
+      "added": "お気に入りに追加しました",
+      "addedDesc": "ドメイン {domain} をお気に入りに追加しました",
+      "removed": "お気に入りから削除しました",
+      "removedDesc": "ドメイン {domain} をお気に入りから削除しました",
+      "addFailed": "お気に入り追加失敗",
+      "removeFailed": "お気に入り削除失敗",
+      "operationFailed": "操作に失敗しました。後でもう一度お試しください",
+      "searchNote": "「{query}」の検索で発見",
+      "checkFailed": "お気に入り状態の確認に失敗しました",
+      "saveFailed": "検索履歴の保存に失敗しました"
+    }
+  },
+  "language": {
+    "chinese": "中国語",
+    "english": "English",
+    "japanese": "日本語",
+    "language": "言語",
+    "fallback": "言語"
+  },
+  "login": {
+    "title": "おかえりなさい",
+    "subtitle": "Googleアカウントでログインして続行",
+    "googleLogin": "Googleでログイン",
+    "loginFailed": "ログインに失敗しました。もう一度お試しください",
+    "signingIn": "ログイン中...",
+    "agreement": "ログインすることで、当社の利用規約とプライバシーポリシーに同意したものとみなされます"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "申し訳ございません。お探しのページは存在しません。URLを確認するか、ホームに戻ってください。",
+    "backHome": "ホームに戻る"
+  },
+  "error": {
+    "title": "問題が発生しました",
+    "description": "申し訳ございません。予期しないエラーが発生しました。ページを更新するか、しばらくしてからお試しください。",
+    "retry": "再試行"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功しました",
+    "confirm": "確認",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集",
+    "view": "表示",
+    "back": "戻る",
+    "next": "次へ",
+    "previous": "前へ",
+    "close": "閉じる",
+    "search": "検索",
+    "filter": "フィルター",
+    "sort": "並び替え",
+    "export": "エクスポート",
+    "import": "インポート",
+    "refresh": "更新",
+    "reset": "リセット",
+    "submit": "送信",
+    "apply": "適用",
+    "clear": "クリア",
+    "select": "選択",
+    "selectAll": "すべて選択",
+    "language": "言語"
+  },
+  "favoritesPage": {
+    "title": "ドメインお気に入り",
+    "subtitle": "お気に入りのドメインを管理",
+    "batchManage": "一括管理",
+    "cancelBatch": "一括操作をキャンセル",
+    "deleteSelected": "選択した項目を削除",
+    "confirmBatchDelete": "一括削除の確認",
+    "batchDeleteDescription": "選択した{count}件のお気に入りを削除してもよろしいですか？この操作は取り消せません。",
+    "confirmDelete": "削除を確認",
+    "selectFavorites": "お気に入りを選択",
+    "selectedCount": "{count}件を選択中",
+    "clickToSelect": "お気に入り項目のチェックボックスをクリックして選択",
+    "searchPlaceholder": "ドメイン名またはメモを検索...",
+    "filterAll": "すべて",
+    "filterAvailable": "利用可能",
+    "filterRegistered": "登録済み",
+    "loading": "読み込み中...",
+    "empty": {
+      "title": "まだドメインをお気に入りに追加していません",
+      "description": "検索結果のハートアイコンをクリックしてドメインをお気に入りに追加",
+      "searchButton": "ドメイン検索を始める"
+    },
+    "found": "{count}件のお気に入りドメインが見つかりました",
+    "total": "合計{count}件のお気に入りドメイン",
+    "viewDetails": "詳細を見る",
+    "actions": {
+      "edit": "お気に入りを編集",
+      "checkAvailability": "利用可否を確認",
+      "delete": "お気に入りを削除"
+    },
+    "status": {
+      "available": "利用可能",
+      "registered": "登録済み",
+      "unchecked": "未確認"
+    },
+    "dates": {
+      "favoriteAt": "お気に入り追加日",
+      "checkedAt": "確認日"
+    },
+    "pagination": {
+      "previous": "前のページ",
+      "next": "次のページ",
+      "pageInfo": "{current}ページ目 / 全{total}ページ"
+    },
+    "stats": {
+      "title": "お気に入り統計",
+      "description": "ドメインお気に入りの概要",
+      "totalFavorites": "合計お気に入り数",
+      "availableDomains": "利用可能ドメイン",
+      "registeredDomains": "登録済みドメイン",
+      "domainExtensions": "ドメイン拡張子"
+    },
+    "edit": {
+      "title": "お気に入りを編集",
+      "subtitle": "タグ、メモ、利用状態を変更",
+      "tags": "タグ",
+      "tagPlaceholder": "タグ名を入力",
+      "addTag": "追加",
+      "notes": "メモ",
+      "notesPlaceholder": "お気に入りのメモを追加...",
+      "availability": "利用状態",
+      "save": "変更を保存"
+    },
+    "toast": {
+      "loadFailed": "読み込み失敗",
+      "loadFailedDesc": "お気に入りリストを読み込めませんでした",
+      "removed": "削除しました",
+      "removedDesc": "ドメインをお気に入りから削除しました",
+      "deleteFailed": "削除失敗",
+      "deleteFailedDesc": "お気に入りを削除できませんでした",
+      "updateSuccess": "更新成功",
+      "updateSuccessDesc": "お気に入り情報を更新しました",
+      "updateFailed": "更新失敗",
+      "updateFailedDesc": "お気に入り情報を更新できませんでした",
+      "batchDeleteSuccess": "一括削除成功",
+      "batchDeleteSuccessDesc": "{count}件のお気に入りを削除しました",
+      "batchDeleteFailed": "一括削除失敗",
+      "batchDeleteFailedDesc": "お気に入りを一括削除できませんでした",
+      "checking": "確認中",
+      "checkingDesc": "{domain}の利用可否を確認中..."
+    },
+    "detail": {
+      "title": "お気に入り詳細",
+      "subtitle": "ドメインお気に入りの詳細情報を表示",
+      "loading": "読み込み中...",
+      "loadFailed": "読み込み失敗",
+      "loadFailedDesc": "お気に入り詳細を読み込めませんでした",
+      "notFound": "お気に入りが存在しません",
+      "back": "戻る",
+      "backToFavorites": "お気に入りリストに戻る",
+      "edit": "編集",
+      "checkAvailability": "利用可否を確認",
+      "checking": "確認中",
+      "checkingDesc": "{domain}の利用可否を確認中...",
+      "tags": "タグ",
+      "notes": "メモ",
+      "favoriteTime": "お気に入り追加時刻",
+      "lastChecked": "最終確認",
+      "domainInfo": {
+        "title": "ドメイン情報",
+        "subtitle": "{domain}の基本情報",
+        "domainLength": "ドメインの長さ",
+        "domainLengthValue": "{length}文字",
+        "tld": "トップレベルドメイン",
+        "baseLength": "拡張子を除いた長さ",
+        "baseLengthValue": "{length}文字",
+        "domainType": "ドメインタイプ",
+        "domainTypeValues": {
+          "lettersOnly": "アルファベットのみ",
+          "numbersOnly": "数字のみ",
+          "alphanumeric": "英数字混合",
+          "withSpecialChars": "特殊文字含む"
+        }
+      },
+      "timeAgo": {
+        "justNow": "たった今",
+        "hoursAgo": "{hours}時間前",
+        "daysAgo": "{days}日前"
+      },
+      "availability": {
+        "available": "利用可能",
+        "registered": "登録済み",
+        "unchecked": "未確認"
+      }
+    }
+  },
+  "favorites": {
+    "title": "お気に入り",
+    "subtitle": "お気に入りのドメインを管理",
+    "empty": "お気に入りドメインがありません",
+    "emptyDescription": "検索してお気に入りのドメインを保存しましょう",
+    "addToFavorites": "お気に入りに追加",
+    "removeFromFavorites": "お気に入りから削除",
+    "available": "利用可能",
+    "unavailable": "利用不可",
+    "notes": "メモ",
+    "tags": "タグ",
+    "lastChecked": "最終確認",
+    "addNote": "メモを追加",
+    "addTags": "タグを追加"
+  },
+  "history": {
+    "title": "検索履歴",
+    "subtitle": "検索記録を確認",
+    "empty": "検索履歴がありません",
+    "emptyDescription": "ドメインを検索して履歴を作成しましょう",
+    "searchTerm": "検索ワード",
+    "resultCount": "結果数",
+    "searchType": "検索タイプ",
+    "searchTime": "検索時刻",
+    "viewResults": "結果を見る",
+    "loading": "読み込み中...",
+    "loadFailed": "読み込み失敗",
+    "loadFailedDesc": "検索履歴を読み込めませんでした",
+    "filters": {
+      "title": "履歴を絞り込む",
+      "subtitle": "タイプと時間で検索記録を絞り込む",
+      "searchPlaceholder": "履歴を検索...",
+      "allTypes": "すべてのタイプ",
+      "all": "すべて"
+    },
+    "noResults": {
+      "title": "一致する記録が見つかりません",
+      "subtitle": "絞り込み条件または検索キーワードを調整してください"
+    },
+    "detail": {
+      "title": "検索結果の再生",
+      "subtitle": "「{searchTerm}」の検索結果と詳細情報を確認",
+      "loading": "読み込み中...",
+      "loadFailed": "読み込み失敗",
+      "loadFailedDesc": "検索履歴詳細を読み込めませんでした",
+      "notFound": "検索記録が存在しません",
+      "back": "戻る",
+      "backToHistory": "検索履歴に戻る",
+      "repeatSearch": "再検索",
+      "searchInfo": "検索情報",
+      "searchParams": "検索パラメータ",
+      "searchTime": "検索時刻",
+      "searchId": "検索ID",
+      "resultReplay": "検索結果再生",
+      "resultReplayDesc": "当時{count}件の関連ドメインが見つかりました。ドメインをクリックしてお気に入りに追加できます",
+      "addToFavorites": "お気に入りに追加",
+      "batchAddFavorites": "利用可能ドメインを一括でお気に入りに追加",
+      "addSuccess": "追加成功",
+      "addSuccessDesc": "{domain}をお気に入りに追加しました",
+      "addFailed": "追加失敗",
+      "addFailedDesc": "お気に入りに追加できませんでした",
+      "visitDomain": "ドメインを訪問",
+      "timeAgo": {
+        "justNow": "たった今",
+        "hoursAgo": "{hours}時間前",
+        "daysAgo": "{days}日前"
+      },
+      "searchType": {
+        "keyword": "キーワード",
+        "domain": "ドメイン",
+        "company": "企業"
+      },
+      "stats": {
+        "title": "検索統計",
+        "subtitle": "この検索の統計情報",
+        "totalResults": "合計結果数",
+        "searchType": "検索タイプ",
+        "searchTermLength": "検索ワードの長さ",
+        "filterCount": "フィルター条件数"
+      },
+      "availability": {
+        "available": "利用可能",
+        "registered": "登録済み"
+      },
+      "noResultsData": "検索結果データがありません"
+    }
+  },
+  "account": {
+    "profile": {
+      "title": "プロフィール",
+      "subtitle": "個人情報を更新",
+      "avatar": {
+        "upload": "新しいアバターをアップロード",
+        "recommendation": "正方形の画像、最大2MBを推奨",
+        "alt": "ユーザー"
+      },
+      "email": {
+        "label": "メールアドレス",
+        "readonly": "メールアドレスは変更できません"
+      },
+      "fullName": {
+        "label": "氏名",
+        "placeholder": "氏名を入力"
+      },
+      "updating": "更新中...",
+      "saveButton": "変更を保存"
+    },
+    "info": {
+      "title": "アカウント情報",
+      "subtitle": "アカウント詳細を確認",
+      "accountId": "アカウントID",
+      "loginMethod": "ログイン方法",
+      "google": "Google",
+      "email": "メールアドレス",
+      "createdAt": "登録日時",
+      "lastSignIn": "最終ログイン",
+      "neverSignedIn": "ログイン履歴なし"
+    },
+    "dangerZone": {
+      "title": "危険ゾーン",
+      "subtitle": "これらの操作は取り消せません。慎重に行ってください",
+      "deleteAccount": "アカウントを削除",
+      "deleteConfirmTitle": "本当にアカウントを削除しますか？",
+      "deleteConfirmDescription": "この操作はアカウントとすべての関連データを永久に削除します。この操作は取り消せません。",
+      "cancel": "キャンセル"
+    },
+    "toast": {
+      "updateSuccess": "更新成功",
+      "updateSuccessDesc": "プロフィールを更新しました",
+      "updateFailed": "更新失敗",
+      "updateFailedDesc": "プロフィールを更新できませんでした。もう一度お試しください",
+      "featureComingSoon": "機能開発中",
+      "avatarUploadSoon": "アバターアップロード機能は近日公開予定",
+      "uploadFailed": "アップロード失敗",
+      "uploadFailedDesc": "アバターをアップロードできませんでした。もう一度お試しください",
+      "deleteAccountSoon": "アカウント削除機能は近日公開予定"
+    }
+  },
+  "errors": {
+    "generic": "エラーが発生しました",
+    "networkError": "ネットワークエラー",
+    "serverError": "サーバーエラー",
+    "notFound": "見つかりません",
+    "unauthorized": "認証されていません",
+    "forbidden": "アクセスが禁止されています",
+    "validationError": "検証エラー",
+    "loadFailed": "読み込みに失敗しました",
+    "saveFailed": "保存に失敗しました",
+    "deleteFailed": "削除に失敗しました",
+    "createFailed": "作成に失敗しました",
+    "updateFailed": "更新に失敗しました"
+  },
+  "footer": {
+    "description": "あなたのプロジェクトに素敵な名前を。Smart Domainはスマートアルゴリズムを使って、完璧なプロジェクト名と利用可能なドメインを見つけるお手伝いをします。",
+    "quickLinks": {
+      "title": "クイックリンク",
+      "home": "ホーム",
+      "favorites": "お気に入り",
+      "history": "検索履歴",
+      "settings": "設定"
+    },
+    "resources": {
+      "title": "リソース",
+      "apiDocs": "APIドキュメント",
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "help": "ヘルプセンター"
+    },
+    "copyright": "© {year} Smart Domain. All rights reserved.",
+    "madeWith": "Made with",
+    "by": "by Smart Domain Team"
+  },
+  "apiDocs": {
+    "title": "APIドキュメント",
+    "subtitle": "Smart Domain APIを使って、ドメイン生成機能をあなたのアプリに統合しましょう",
+    "features": {
+      "performance": {
+        "title": "高パフォーマンス",
+        "description": "ミリ秒単位の応答、バッチリクエストと並列処理に対応"
+      },
+      "security": {
+        "title": "安全で信頼性が高い",
+        "description": "OAuth 2.0認証、データ暗号化通信、99.9%の可用性保証"
+      },
+      "easyToUse": {
+        "title": "シンプルで使いやすい",
+        "description": "RESTful API設計、詳細なドキュメントとサンプルコード"
+      },
+      "global": {
+        "title": "グローバル対応",
+        "description": "多言語サポート、グローバルCDN高速化、ローカライズ対応"
+      }
+    },
+    "quickStart": {
+      "title": "クイックスタート",
+      "step1": {
+        "title": "1. APIキーを取得",
+        "description": "設定ページでAPIキーを生成します。各キーには独立したクォータと権限制御があります。"
+      },
+      "step2": {
+        "title": "2. リクエストを送信",
+        "description": "POSTリクエストでドメイン提案を生成："
+      },
+      "step3": {
+        "title": "3. レスポンスを取得",
+        "description": "APIはドメイン提案と利用可否情報を含むJSONレスポンスを返します："
+      }
+    },
+    "endpoints": {
+      "title": "APIエンドポイント",
+      "generate": "ドメイン提案を生成",
+      "history": "生成履歴を取得",
+      "favorites": "お気に入りリストを取得",
+      "addFavorite": "お気に入りに追加"
+    },
+    "sdk": {
+      "title": "SDKサポート",
+      "description": "複数のプログラミング言語用の公式SDKを提供し、統合をより簡単にします："
+    }
+  },
+  "privacy": {
+    "title": "プライバシーポリシー",
+    "lastUpdated": "最終更新：{date}",
+    "date": "2025年7月",
+    "principles": {
+      "title": "プライバシーの原則",
+      "dataMinimization": {
+        "title": "データ最小化",
+        "description": "必要な情報のみを収集"
+      },
+      "transparency": {
+        "title": "透明性",
+        "description": "データの使用目的を明確に説明"
+      },
+      "security": {
+        "title": "安全な保管",
+        "description": "暗号化でデータを保護"
+      }
+    },
+    "dataCollection": {
+      "title": "収集する情報",
+      "account": {
+        "title": "アカウント情報",
+        "items": [
+          "メールアドレス（アカウント登録と通知用）",
+          "ユーザー名（オプション）",
+          "アバター（アップロードを選択した場合）"
+        ]
+      },
+      "usage": {
+        "title": "使用データ",
+        "items": [
+          "ドメイン検索履歴（履歴記録機能用）",
+          "お気に入りドメイン（お気に入り機能用）",
+          "API使用統計（クォータ管理用）"
+        ]
+      },
+      "technical": {
+        "title": "技術情報",
+        "items": [
+          "IPアドレス（セキュリティと不正使用防止用）",
+          "ブラウザの種類とバージョン",
+          "デバイス情報",
+          "アクセス時間とページ閲覧記録"
+        ]
+      }
+    },
+    "dataUsage": {
+      "title": "情報の使用方法",
+      "items": [
+        "サービスの提供、維持、改善",
+        "お客様のリクエストと取引の処理",
+        "サービス関連の通知とアップデートの送信",
+        "ユーザー体験向上のための使用パターン分析",
+        "サービスのセキュリティ保護、詐欺と不正使用の防止"
+      ]
+    },
+    "dataSharing": {
+      "title": "データの共有と開示",
+      "noSelling": {
+        "title": "個人情報の販売はしません",
+        "description": "お客様の個人情報を第三者に販売することは絶対にありません。"
+      },
+      "sharingCases": "以下の場合にお客様の情報を共有することがあります：",
+      "cases": [
+        "お客様の明確な同意を得た場合",
+        "法律・法令の要求に従う場合",
+        "当社の権利、財産、安全を保護するため",
+        "信頼できるサービスプロバイダーとの協力（ホスティングサービスなど）"
+      ]
+    },
+    "dataSecurity": {
+      "title": "データセキュリティ",
+      "description": "お客様の情報を保護するために複数のセキュリティ対策を実施しています：",
+      "measures": {
+        "encryption": {
+          "title": "暗号化通信",
+          "description": "HTTPSを使用してすべてのデータ通信を暗号化"
+        },
+        "storage": {
+          "title": "安全な保管",
+          "description": "データベースの暗号化とアクセス制御"
+        },
+        "audit": {
+          "title": "定期監査",
+          "description": "定期的なセキュリティ監査と脆弱性スキャン"
+        },
+        "response": {
+          "title": "インシデント対応",
+          "description": "24時間セキュリティインシデント対応チーム"
+        }
+      }
+    },
+    "yourRights": {
+      "title": "お客様の権利",
+      "description": "お客様はご自身の個人情報に対して以下の権利を有します：",
+      "access": {
+        "title": "アクセス権",
+        "description": "当社が保管するお客様の個人情報のコピーへのアクセスを要求できます"
+      },
+      "correction": {
+        "title": "訂正権",
+        "description": "不正確または不完全な個人情報の訂正を要求できます"
+      },
+      "deletion": {
+        "title": "削除権",
+        "description": "個人情報の削除を要求できます（一部の法的要件を除く）"
+      },
+      "portability": {
+        "title": "データポータビリティ権",
+        "description": "機械可読形式で個人情報を受け取ることを要求できます"
+      }
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "description": "プライバシーポリシーに関するご質問やご意見がありましたら、以下の方法でお問い合わせください：",
+      "email": "privacy@smartdomain.com",
+      "alternative": "またはウェブサイトのヘルプセンターからリクエストを送信"
+    }
+  },
+  "terms": {
+    "title": "利用規約",
+    "lastUpdated": "最終更新：{date} | 有効日：{effectiveDate}",
+    "date": "2025年7月",
+    "effectiveDate": "2025年7月1日",
+    "importantNotice": {
+      "title": "重要なお知らせ",
+      "description": "これらの利用規約をよくお読みください。Smart Domainを使用することで、これらの規約に同意したものとみなされます。同意しない場合は、当サービスをご利用いただけません。"
+    },
+    "overview": {
+      "title": "規約の概要",
+      "freeUse": {
+        "title": "無料利用",
+        "description": "基本機能は永久無料、有料機能はオプション"
+      },
+      "dataSecurity": {
+        "title": "データセキュリティ",
+        "description": "お客様のデータはお客様のもの、当社が保護します"
+      },
+      "fairUse": {
+        "title": "公正な利用",
+        "description": "適切な利用、不正使用や悪意ある行為は禁止"
+      },
+      "userResponsibility": {
+        "title": "ユーザーの責任",
+        "description": "法律を遵守し、他者の知的財産権を尊重"
+      }
+    },
+    "serviceDescription": {
+      "title": "1. サービスの説明",
+      "description": "Smart Domain（以下「サービス」）は、ユーザーがプロジェクト、企業、個人ブランドに適したドメイン名を見つけることを支援するインテリジェントドメイン生成・提案プラットフォームです。",
+      "includes": "当サービスには以下が含まれます（ただしこれらに限定されません）：",
+      "features": [
+        "AIを活用したドメイン生成提案",
+        "ドメイン利用可否のリアルタイム確認",
+        "ドメインお気に入りと履歴管理",
+        "APIアクセス（開発者向け）",
+        "アドバンスド機能（有料サブスクリプション）"
+      ]
+    },
+    "usageTerms": {
+      "title": "2. 利用条件",
+      "accountRegistration": {
+        "title": "2.1 アカウント登録",
+        "items": [
+          "正確かつ完全な登録情報を提供する必要があります",
+          "アカウントのセキュリティとパスワードの機密保持はお客様の責任です",
+          "1人または1団体につき1つのアカウントのみ登録可能です",
+          "本サービスを利用するには13歳以上である必要があります"
+        ]
+      },
+      "acceptableUse": {
+        "title": "2.2 適切な利用",
+        "description": "お客様は以下を行わないことに同意します：",
+        "items": [
+          "適用される法律または規制に違反すること",
+          "他者の知的財産権またはその他の権利を侵害すること",
+          "マルウェアや有害なコードを拡散すること",
+          "自動化攻撃やサービスの不正使用を行うこと",
+          "利用制限やセキュリティ対策を回避しようとすること",
+          "サービスを転売または無断で配布すること"
+        ]
+      }
+    },
+    "intellectualProperty": {
+      "title": "3. 知的財産権",
+      "yourContent": {
+        "title": "お客様のコンテンツ",
+        "description": "お客様が作成したコンテンツに対するすべての権利はお客様に帰属します。当サービスを利用することで、サービス運営に必要なライセンスを当社に付与します。"
+      },
+      "ourContent": {
+        "title": "当社のコンテンツ",
+        "description": "Smart Domainのソフトウェア、デザイン、テキスト、グラフィック、その他のコンテンツは著作権法およびその他の知的財産権法によって保護されています。"
+      },
+      "domainSuggestions": {
+        "title": "ドメイン提案",
+        "description": "当社が生成するドメイン提案は商標や著作権の主張を構成するものではありません。選択したドメインが他者の権利を侵害しないことを確認する責任はユーザーにあります。"
+      }
+    },
+    "paidServices": {
+      "title": "4. 有料サービスと返金",
+      "subscription": {
+        "title": "4.1 サブスクリプションと課金",
+        "items": [
+          "有料サブスクリプションは月額または年額課金",
+          "価格は変更される可能性がありますが、既存のサブスクリプション期間には影響しません",
+          "自動更新はいつでもキャンセル可能"
+        ]
+      },
+      "refundPolicy": {
+        "title": "4.2 返金ポリシー",
+        "highlight": "7日間無条件返金",
+        "description": "新規サブスクリプションユーザーは、購入後7日以内に理由を問わず全額返金を申請できます。"
+      }
+    },
+    "disclaimer": {
+      "title": "5. 免責事項と責任制限",
+      "asIs": {
+        "title": "サービスは現状のままで提供：",
+        "description": "信頼できるサービスの提供に努めますが、サービスが常に利用可能またはエラーがないことを保証することはできません。"
+      },
+      "domainAvailability": {
+        "title": "ドメインの利用可否：",
+        "description": "ドメインの利用可否情報は参考のみであり、実際の登録時に変更される可能性があります。"
+      },
+      "liability": {
+        "title": "責任の制限：",
+        "description": "法律で許可される最大限の範囲で、Smart Domainは間接的、付随的、特別または結果的損害について責任を負いません。"
+      }
+    },
+    "privacyAndData": {
+      "title": "6. プライバシーとデータ保護",
+      "description": "お客様のプライバシーは当社にとって非常に重要です。当社がお客様の情報をどのように収集、使用、保護しているかについては、プライバシーポリシーをご確認ください。",
+      "commitment": "当社はお客様のデータセキュリティを保護し、お客様の個人情報を第三者に販売することはありません。"
+    },
+    "termination": {
+      "title": "7. サービスの終了",
+      "userTermination": "お客様はいつでも当サービスの利用を停止し、アカウントを削除することができます。",
+      "ourRights": "当社は以下の場合にお客様のアカウントを停止または終了する権利を留保します：",
+      "reasons": [
+        "これらの利用規約に違反した場合",
+        "詐欺行為または違法行為に関与した場合",
+        "サービスを濫用したり、他のユーザーに害を与えたりした場合"
+      ]
+    },
+    "modifications": {
+      "title": "8. 規約の変更",
+      "description": "当社は時々これらの規約を更新する場合があります。重大な変更の場合は、メールまたはサービス内通知でお知らせします。サービスの継続利用は、変更後の規約に同意したものとみなします。"
+    },
+    "contactInfo": {
+      "title": "9. お問い合わせ",
+      "description": "これらの利用規約についてご質問がありましたら、お気軽にお問い合わせください：",
+      "department": "Smart Domain 法務部",
+      "email": "メール：legal@smartdomain.com",
+      "address": "住所：中国上海市浦东新区"
+    }
+  },
+  "help": {
+    "title": "ヘルプセンター",
+    "subtitle": "答えを探し、使い方のコツを学んだり、サポートチームにお問い合わせください",
+    "search": {
+      "placeholder": "ヘルプ記事を検索..."
+    },
+    "quickLinks": {
+      "quickStart": {
+        "title": "クイックスタート",
+        "description": "5分でマスターできるガイド"
+      },
+      "tutorials": {
+        "title": "使い方チュートリアル",
+        "description": "詳細な機能説明"
+      },
+      "billing": {
+        "title": "請求関連",
+        "description": "サブスクリプションと決済"
+      },
+      "support": {
+        "title": "サポートに連絡",
+        "description": "サポートを受ける"
+      }
+    },
+    "faq": {
+      "title": "よくある質問カテゴリー",
+      "gettingStarted": {
+        "title": "使い始める",
+        "questions": [
+          "アカウントを作成するには？",
+          "ドメイン提案を生成するには？",
+          "スマートネーミングアルゴリズムとは？",
+          "お気に入りのドメインを保存するには？"
+        ]
+      },
+      "features": {
+        "title": "機能の使い方",
+        "questions": [
+          "高度なフィルターを使用するには？",
+          "ドメインリストをエクスポートするには？",
+          "履歴はどのくらい保存されますか？",
+          "ドメイン提案をシェアするには？"
+        ]
+      },
+      "billing": {
+        "title": "請求とサブスクリプション",
+        "questions": [
+          "どのようなサブスクリプションプランがありますか？",
+          "サブスクリプションをアップグレードするには？",
+          "サブスクリプションをキャンセルするには？",
+          "どのような支払い方法に対応していますか？"
+        ]
+      },
+      "api": {
+        "title": "API開発",
+        "questions": [
+          "APIキーを取得するには？",
+          "APIレート制限はどのくらいですか？",
+          "APIエラーを処理するには？",
+          "サンプルコードはありますか？"
+        ]
+      }
+    },
+    "popularArticles": {
+      "title": "人気記事",
+      "articles": [
+        {
+          "title": "完全利用ガイド：初心者から上級者まで",
+          "description": "Smart Domainのすべての機能を理解し、ドメイン生成のエキスパートになりましょう",
+          "readTime": "5分間で読めます"
+        },
+        {
+          "title": "10のコツ：完璧なドメインを見つける",
+          "description": "プロのアドバイスで記憶に残るドメインを選びましょう",
+          "readTime": "3分間で読めます"
+        },
+        {
+          "title": "API統合のベストプラクティス",
+          "description": "Smart Domain APIをアプリケーションにシームレスに統合",
+          "readTime": "8分間で読めます"
+        }
+      ]
+    },
+    "contactSupport": {
+      "title": "さらにサポートが必要ですか？",
+      "description": "サポートチームがいつでもお手伝いいたします。メールまたはライブチャットでお気軽にお問い合わせください。",
+      "emailButton": "メールで問い合わせ",
+      "chatButton": "ライブチャット",
+      "workingHours": "営業時間：月曜日〜金曜日 9:00-18:00 (UTC+8)"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Smart Domain Generator ads.txt
+# This website does not currently serve advertisements
+# If you see ads on this domain, they are not authorized
+
+# 本网站目前不投放广告
+# 如果您在此域名上看到广告，这些广告未经授权
+
+# Placeholder for future advertising partnerships
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

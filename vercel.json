@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm build --filter @smart-domain/web",
+  "outputDirectory": "apps/web/.next",
+  "installCommand": "npm i -g pnpm@10.13.1 && pnpm install",
+  "framework": "nextjs",
+  "functions": {
+    "src/app/api/**/*.ts": {
+      "maxDuration": 25
+    }
+  },
+  "env": {
+    "PNPM_FLAGS": "--shamefully-hoist",
+    "NODE_VERSION": "20"
+  },
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD ."
+}

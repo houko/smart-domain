@@ -1,0 +1,1189 @@
+{
+  "metadata": {
+    "title": "起名助手 - 为你的项目起个好名字",
+    "description": "简单描述你的想法，我们帮你想出合适的项目名称和域名"
+  },
+  "logo": {
+    "title": "Smart Domain",
+    "subtitle": "起名助手"
+  },
+  "nav": {
+    "home": "首页",
+    "settings": "设置",
+    "login": "登录",
+    "logout": "退出登录",
+    "dashboard": "控制台",
+    "favorites": "收藏",
+    "history": "历史"
+  },
+  "home": {
+    "title": "起名助手",
+    "subtitle": "让起名变得简单有趣",
+    "description": "说说你的想法",
+    "placeholder": "比如：想做一个宠物主人分享照片的社区",
+    "generateButton": "帮我想想",
+    "generating": "正在想...",
+    "generateError": "哎呀，出错了",
+    "generateErrorDesc": "暂时想不出来，请稍后再试试",
+    "searchButton": "搜索",
+    "results": {
+      "title": "为你想到了这些",
+      "foundSuggestions": "有 {count} 个不错的建议",
+      "myFavorites": "我的收藏",
+      "searchHistory": "起名记录"
+    },
+    "analysis": {
+      "title": "我们理解到",
+      "keywords": "关键元素："
+    },
+    "domains": {
+      "purchase": "购买",
+      "availableCount": "可用域名：{count} 个"
+    },
+    "favorites": {
+      "added": "已收藏",
+      "addedDesc": "域名 {domain} 已添加到收藏",
+      "removed": "取消收藏",
+      "removedDesc": "域名 {domain} 已从收藏中移除"
+    },
+    "hero": {
+      "findPerfect": "为你的项目起个",
+      "domain": "好名字",
+      "subtitle": "描述你的想法，我们帮你想出合适的项目名称，还能马上查看域名是否可用。让起名这件事变得简单又有趣。",
+      "startButton": "试试看"
+    },
+    "whyChooseUs": {
+      "title": "让起名变得轻松",
+      "subtitle": "我们懂得一个好名字的重要性，让我们帮你找到它",
+      "badge": "核心优势"
+    },
+    "features": {
+      "aiAnalysis": {
+        "title": "懂你的想法",
+        "description": "理解每个创意背后的故事",
+        "content": "告诉我们你的想法，我们会理解你想表达什么，然后为你生成既贴切又好记的名字。就像和朋友聊天一样自然。"
+      },
+      "multiStrategy": {
+        "title": "创意无限",
+        "description": "总有一个名字适合你",
+        "content": "我们会用不同的方式组合想法，创造新词，或是找到意想不到的组合。每个建议都独特而有意义，总有一个会让你眼前一亮。"
+      },
+      "realTimeQuery": {
+        "title": "马上知道结果",
+        "description": "域名是否可用，一查便知",
+        "content": "选中喜欢的名字后，立即查看对应的域名是否可以注册。还能看到价格，找到了就能直接去注册，不错过好机会。"
+      },
+      "smartFavorites": {
+        "title": "收藏好名字",
+        "description": "把喜欢的都留下来",
+        "content": "看到喜欢的名字？收藏起来慢慢选。可以添加备注，分类管理，还会提醒你域名状态的变化。",
+        "statsText": "已有 {count} 个好名字被收藏"
+      },
+      "searchHistory": {
+        "title": "灵感不会丢",
+        "description": "所有创意都在这里",
+        "content": "每次搜索都会保存下来，随时可以回看。今天的想法和上周的创意，都能轻松找到和比较。",
+        "statsText": "今天已帮助 {count} 次起名"
+      },
+      "secure": {
+        "title": "放心使用",
+        "description": "你的创意，我们守护",
+        "content": "你的想法和搜索记录都会被安全保存，只有你能看到。想要导出数据也没问题，一切都在你的掌控之中。"
+      }
+    },
+    "stats": {
+      "title": "大家都在用",
+      "badge": "实时数据",
+      "usersHelped": "已帮助 {count} 位朋友找到满意的名字",
+      "usersHelpedDefault": "已经帮助很多人找到了满意的名字",
+      "domainsGenerated": "个好名字",
+      "usersTrust": "位用户",
+      "availability": "稳定运行",
+      "onlineService": "随时可用"
+    },
+    "cta": {
+      "title": "给你的项目起个好名字吧",
+      "subtitle": "现在就试试，说不定下一个好名字就是你的",
+      "startButton": "开始起名",
+      "demoButton": "看看别人怎么用"
+    }
+  },
+  "settings": {
+    "title": "设置",
+    "subtitle": "管理您的账户和偏好设置",
+    "general": "常规设置",
+    "apiKeys": "API 密钥",
+    "billing": "订阅管理",
+    "favorites": "我的收藏",
+    "history": "搜索历史",
+    "preferences": "偏好设置",
+    "security": "安全设置",
+    "navigation": {
+      "account": "账户",
+      "domainFavorites": "域名收藏",
+      "searchHistory": "搜索历史",
+      "preferences": "偏好设置",
+      "security": "安全",
+      "apiKeys": "API密钥",
+      "subscription": "订阅"
+    }
+  },
+  "apiKeys": {
+    "title": "API 密钥管理",
+    "subtitle": "管理您的API访问密钥",
+    "createButton": "创建API密钥",
+    "noKeys": "还没有API密钥",
+    "noKeysDescription": "创建您的第一个API密钥来开始使用API",
+    "usage": "使用说明",
+    "usageDescription": "在您的请求头中包含API密钥来访问我们的API",
+    "examples": "代码示例",
+    "healthCheck": "健康检查",
+    "copy": "复制",
+    "copySuccess": "复制成功",
+    "createTitle": "创建新的API密钥",
+    "createDescription": "为您的应用程序创建一个新的API访问密钥",
+    "keyName": "名称",
+    "keyNamePlaceholder": "例如：生产环境密钥",
+    "keyDescription": "描述（可选）",
+    "keyDescriptionPlaceholder": "描述此密钥的用途",
+    "cancel": "取消",
+    "create": "创建",
+    "creating": "创建中...",
+    "newKeyTitle": "您的新API密钥",
+    "newKeyDescription": "请立即复制并妥善保存您的API密钥。出于安全考虑，它只会显示这一次。",
+    "newKeyWarning": "此密钥不会再次显示。如果您丢失了它，需要生成新的密钥。",
+    "saved": "我已保存",
+    "monthlyUsage": "本月使用: {count} 次",
+    "createdAt": "创建于",
+    "lastUsed": "最后使用",
+    "viewUsage": "查看使用情况",
+    "delete": "删除",
+    "deleteConfirm": "确定要删除这个API密钥吗？",
+    "deleteDescription": "删除后，使用此密钥的应用将无法访问API。此操作不可撤销。",
+    "loadFailed": "加载失败",
+    "loadFailedDescription": "无法加载API密钥列表",
+    "nameRequired": "请输入名称",
+    "nameRequiredDescription": "API密钥名称不能为空",
+    "notLoggedIn": "未登录",
+    "createSuccess": "创建成功",
+    "createSuccessDescription": "请妥善保存您的API密钥，它只会显示一次",
+    "createFailed": "创建失败",
+    "createFailedDescription": "无法创建API密钥，请重试",
+    "deleteSuccess": "删除成功",
+    "deleteSuccessDescription": "API密钥已删除",
+    "deleteFailed": "删除失败",
+    "deleteFailedDescription": "无法删除API密钥，请重试",
+    "copySuccessDescription": "API密钥已复制到剪贴板",
+    "copyFailed": "复制失败",
+    "copyFailedDescription": "无法复制到剪贴板",
+    "curlCopyDescription": "请将 YOUR_API_KEY 替换为您的实际密钥",
+    "copyCurlCommand": "复制cURL命令",
+    "usageInstructions": {
+      "title": "如何使用API密钥",
+      "description": "在您的请求头中包含API密钥来访问我们的API",
+      "authorizationHeader": "Authorization: Bearer YOUR_API_KEY",
+      "codeExamples": "代码示例",
+      "healthCheckTitle": "API健康检查",
+      "healthCheckButton": "检查API状态",
+      "healthCheckCopy": "复制健康检查命令",
+      "healthCheckSuccess": "服务正常",
+      "healthCheckSuccessDesc": "API服务运行正常 ({status})",
+      "healthCheckError": "服务异常",
+      "healthCheckErrorDesc": "服务状态异常",
+      "healthCheckFailed": "检查失败",
+      "healthCheckFailedDesc": "无法连接到API服务",
+      "healthCheckCopySuccess": "健康检查命令已复制",
+      "healthCheckCodeCopySuccess": "健康检查代码已复制",
+      "expectedResponse": "预期响应",
+      "smartHomeExample": "智能家居控制系统",
+      "notes": {
+        "apiKeyAuth": "API密钥用于验证您的应用程序身份",
+        "secureStorage": "请勿在客户端代码中暴露您的API密钥",
+        "keyRotation": "定期轮换您的API密钥以提高安全性",
+        "rateLimits": "每个密钥的请求限制根据您的订阅计划而定"
+      }
+    },
+    "usageDialog": {
+      "title": "API 使用情况",
+      "subtitle": "最近 100 条调用记录",
+      "noRecords": "还没有使用记录",
+      "tableHeaders": {
+        "time": "时间",
+        "endpoint": "端点",
+        "method": "方法",
+        "status": "状态",
+        "ipAddress": "IP 地址"
+      },
+      "close": "关闭"
+    }
+  },
+  "preferences": {
+    "title": "偏好设置",
+    "subtitle": "自定义您的使用体验",
+    "saveButton": "保存偏好设置",
+    "saving": "保存中...",
+    "saveSuccess": "保存成功",
+    "saveSuccessDesc": "您的偏好设置已更新",
+    "saveFailed": "保存失败",
+    "saveFailedDesc": "无法保存您的偏好设置，请重试",
+    "notifications": {
+      "title": "通知设置",
+      "subtitle": "管理您的通知偏好",
+      "emailNotifications": {
+        "label": "邮件通知",
+        "description": "接收重要更新和提醒"
+      },
+      "domainAlerts": {
+        "label": "域名提醒",
+        "description": "当您关注的域名可用时收到通知"
+      },
+      "newsletter": {
+        "label": "订阅资讯",
+        "description": "获取产品更新和优惠信息"
+      }
+    },
+    "display": {
+      "title": "显示设置",
+      "subtitle": "自定义界面显示",
+      "language": {
+        "label": "语言",
+        "options": {
+          "zh-CN": "简体中文",
+          "zh-TW": "繁體中文",
+          "en-US": "English",
+          "ja-JP": "日本語"
+        }
+      },
+      "resultCount": {
+        "label": "默认结果数量",
+        "options": {
+          "5": "5 个",
+          "10": "10 个",
+          "20": "20 个",
+          "50": "50 个"
+        }
+      }
+    },
+    "features": {
+      "title": "功能设置",
+      "subtitle": "启用或禁用特定功能",
+      "autoSave": {
+        "label": "自动保存",
+        "description": "自动保存您的搜索历史和收藏"
+      }
+    }
+  },
+  "billing": {
+    "title": "订阅管理",
+    "subtitle": "管理您的订阅和查看使用情况",
+    "currentPlan": "当前计划",
+    "currentPlanDescription": "您当前使用的是{plan}",
+    "active": "活跃",
+    "monthlyQuota": "每月 {limit} 次查询限额",
+    "unlimitedQuota": "无限制查询",
+    "usedQuota": "本月已使用：{used} / {limit} 次查询",
+    "usedQuotaUnlimited": "本月已使用：{used} / 无限制 次查询",
+    "usageWarning": "您已使用了 {percentage}% 的配额",
+    "upgrade": "升级您的计划",
+    "upgradeButton": "升级",
+    "currentPlanButton": "当前套餐",
+    "upgradeComingSoon": "升级功能暂未开放",
+    "upgradeDescription": "升级功能正在开发中，敬请期待",
+    "billingHistory": "计费历史",
+    "billingHistoryDescription": "查看您的付款记录",
+    "noBillingHistory": "暂无计费记录",
+    "currentUsage": "当前使用情况",
+    "currentUsageDescription": "本月的查询使用统计",
+    "domainQuery": "域名查询",
+    "usageResetOn": "使用量将在 {date} 重置",
+    "subscriptionPlans": "订阅套餐",
+    "upgradeSuccess": "升级成功",
+    "upgradeSuccessDescription": "您已成功升级到新套餐",
+    "upgradeFailed": "升级失败",
+    "upgradeFailedDescription": "无法升级套餐，请重试",
+    "perMonth": "/月",
+    "plans": {
+      "free": "免费版",
+      "pro": "专业版",
+      "enterprise": "企业版",
+      "popular": "最受欢迎"
+    },
+    "features": {
+      "monthlyQueries50": "每月 50 次域名查询",
+      "monthlyQueries500": "每月 500 次域名查询",
+      "unlimitedQueries": "无限域名查询",
+      "basicAI": "基础 AI 建议",
+      "advancedAI": "高级 AI 分析",
+      "enterpriseAI": "企业级 AI 分析",
+      "searchHistory7Days": "搜索历史（7天）",
+      "unlimitedHistory": "无限搜索历史",
+      "batchQuery": "批量查询",
+      "batchQuery50": "批量查询（最多50个）",
+      "batchQueryUnlimited": "批量查询（无限制）",
+      "apiAccess": "API 访问",
+      "fullApiAccess": "完整 API 访问",
+      "prioritySupport": "优先支持",
+      "support247": "24/7 专属支持",
+      "customDomainSuggestions": "自定义域名建议",
+      "dataExport": "完整数据导出",
+      "customSolutions": "定制化解决方案"
+    }
+  },
+  "security": {
+    "title": "安全设置",
+    "subtitle": "管理您的账户安全和登录会话",
+    "account": {
+      "title": "账户信息",
+      "subtitle": "您的登录方式和账户详情",
+      "loginMethod": "登录方式",
+      "googleAccount": "Google 账号",
+      "googleSecurity": "Google 安全设置",
+      "protectedBy": "您的账户通过 Google OAuth 进行保护。所有安全设置（包括密码、两步验证等）都由 Google 管理。",
+      "manageGoogle": "如需修改密码或启用两步验证，请访问您的 Google 账户安全设置。"
+    },
+    "sessions": {
+      "title": "活跃会话",
+      "subtitle": "查看当前登录会话的设备和位置信息",
+      "loading": "获取会话信息中...",
+      "noSessions": "没有活跃会话",
+      "currentDevice": "当前设备",
+      "currentActive": "当前活跃",
+      "signOutTitle": "退出此会话",
+      "unknown": {
+        "location": "未知位置",
+        "ip": "未知",
+        "device": "未知设备",
+        "browser": "未知浏览器"
+      },
+      "device": "设备",
+      "ipInfo": "无法获取IP信息",
+      "loadFailed": "加载会话失败"
+    },
+    "actions": {
+      "title": "账户操作",
+      "subtitle": "管理您的登录状态",
+      "signOutAllTitle": "退出所有设备",
+      "signOutAllDesc": "这将使您在所有设备上退出登录，需要重新登录才能访问账户。",
+      "signOutButton": "退出所有设备",
+      "signOutSuccess": "已退出登录",
+      "signOutSuccessDesc": "您已成功退出登录",
+      "signOutFailed": "退出失败",
+      "signOutFailedDesc": "无法退出登录，请重试"
+    },
+    "recommendations": {
+      "title": "安全建议",
+      "subtitle": "保护您的账户安全的最佳实践",
+      "tips": {
+        "twoFactor": "在您的 Google 账户中启用两步验证",
+        "checkSessions": "定期检查当前会话信息，确认是本人操作",
+        "signOutPublic": "在陌生设备上使用后及时退出登录",
+        "noPublicDevices": "不要在公共设备上保持登录状态",
+        "checkActivity": "定期检查 Google 账户的安全活动记录",
+        "changePassword": "如发现异常登录活动请立即修改 Google 账户密码"
+      }
+    }
+  },
+  "auth": {
+    "login": "登录",
+    "loginTitle": "欢迎回来",
+    "loginSubtitle": "登录到您的账户",
+    "loginWithGoogle": "使用 Google 登录",
+    "loginWithGitHub": "使用 GitHub 登录",
+    "email": "邮箱",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "noAccount": "还没有账户？",
+    "signUp": "注册",
+    "signUpTitle": "创建账户",
+    "signUpSubtitle": "开始使用智能域名生成器",
+    "haveAccount": "已有账户？",
+    "loading": "加载中...",
+    "unauthorized": "请先登录"
+  },
+  "domainGenerator": {
+    "validation": {
+      "minLength": "描述至少需要5个字符",
+      "maxLength": "描述不能超过500个字符"
+    },
+    "title": "描述您的项目想法",
+    "subtitle": "输入您的项目描述，AI 将为您生成合适的项目名称和域名建议",
+    "placeholder": "例如：我想做一个给宠物主人分享照片和日常的社交App",
+    "generateButton": "生成建议",
+    "generating": "生成中...",
+    "generateError": "生成失败",
+    "generateErrorDesc": "生成域名建议时发生错误，请稍后重试",
+    "results": {
+      "title": "搜索结果",
+      "foundSuggestions": "找到 {count} 个项目建议",
+      "myFavorites": "我的收藏",
+      "searchHistory": "搜索历史"
+    },
+    "analysis": {
+      "title": "AI 分析结果",
+      "keywords": "提取的关键词："
+    },
+    "domains": {
+      "purchase": "购买",
+      "availableCount": "可用域名：{count} 个"
+    },
+    "favorites": {
+      "added": "已收藏",
+      "addedDesc": "域名 {domain} 已添加到收藏",
+      "removed": "已取消收藏",
+      "removedDesc": "域名 {domain} 已从收藏中移除",
+      "addFailed": "收藏失败",
+      "removeFailed": "取消收藏失败",
+      "operationFailed": "操作失败，请稍后重试",
+      "searchNote": "通过搜索\"{query}\"发现",
+      "checkFailed": "检查收藏状态失败",
+      "saveFailed": "保存搜索历史失败"
+    }
+  },
+  "language": {
+    "chinese": "中文",
+    "english": "English",
+    "japanese": "日本語",
+    "language": "语言",
+    "fallback": "语言"
+  },
+  "login": {
+    "title": "欢迎回来",
+    "subtitle": "使用 Google 账号登录以继续",
+    "googleLogin": "使用 Google 登录",
+    "loginFailed": "登录失败，请重试",
+    "signingIn": "登录中...",
+    "agreement": "登录即表示您同意我们的服务条款和隐私政策"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "抱歉，您访问的页面不存在。请检查URL或返回首页。",
+    "backHome": "返回首页"
+  },
+  "error": {
+    "title": "出现了一些问题",
+    "description": "抱歉，我们遇到了一个意外错误。请尝试刷新页面或稍后再试。",
+    "retry": "重试"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "confirm": "确认",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "view": "查看",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步",
+    "close": "关闭",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "export": "导出",
+    "import": "导入",
+    "refresh": "刷新",
+    "reset": "重置",
+    "submit": "提交",
+    "apply": "应用",
+    "clear": "清除",
+    "select": "选择",
+    "selectAll": "全选",
+    "language": "语言"
+  },
+  "favoritesPage": {
+    "title": "域名收藏",
+    "subtitle": "管理您收藏的域名",
+    "batchManage": "批量管理",
+    "cancelBatch": "取消批量",
+    "deleteSelected": "删除选中",
+    "confirmBatchDelete": "确认批量删除",
+    "batchDeleteDescription": "您确定要删除选中的 {count} 个收藏吗？此操作无法撤销。",
+    "confirmDelete": "确定删除",
+    "selectFavorites": "选择收藏",
+    "selectedCount": "已选中 {count} 个收藏",
+    "clickToSelect": "点击收藏项前的复选框进行选择",
+    "searchPlaceholder": "搜索域名或备注...",
+    "filterAll": "全部",
+    "filterAvailable": "可用",
+    "filterRegistered": "已注册",
+    "loading": "加载中...",
+    "empty": {
+      "title": "还没有收藏任何域名",
+      "description": "在搜索结果中点击心形图标来收藏域名",
+      "searchButton": "开始搜索域名"
+    },
+    "found": "找到 {count} 个收藏的域名",
+    "total": "共 {count} 个收藏的域名",
+    "viewDetails": "查看详情",
+    "actions": {
+      "edit": "编辑收藏",
+      "checkAvailability": "检查可用性",
+      "delete": "删除收藏"
+    },
+    "status": {
+      "available": "可用",
+      "registered": "已被注册",
+      "unchecked": "未检查"
+    },
+    "dates": {
+      "favoriteAt": "收藏于",
+      "checkedAt": "检查于"
+    },
+    "pagination": {
+      "previous": "上一页",
+      "next": "下一页",
+      "pageInfo": "第 {current} 页，共 {total} 页"
+    },
+    "stats": {
+      "title": "收藏统计",
+      "description": "您的域名收藏概览",
+      "totalFavorites": "总收藏",
+      "availableDomains": "可用域名",
+      "registeredDomains": "已被注册",
+      "domainExtensions": "域名后缀"
+    },
+    "edit": {
+      "title": "编辑收藏",
+      "subtitle": "修改收藏的标签、备注和可用性状态",
+      "tags": "标签",
+      "tagPlaceholder": "输入标签名称",
+      "addTag": "添加",
+      "notes": "备注",
+      "notesPlaceholder": "添加收藏备注...",
+      "availability": "可用性状态",
+      "save": "保存更改"
+    },
+    "toast": {
+      "loadFailed": "加载失败",
+      "loadFailedDesc": "无法加载收藏列表",
+      "removed": "已移除",
+      "removedDesc": "域名已从收藏中移除",
+      "deleteFailed": "删除失败",
+      "deleteFailedDesc": "无法删除收藏",
+      "updateSuccess": "更新成功",
+      "updateSuccessDesc": "收藏信息已更新",
+      "updateFailed": "更新失败",
+      "updateFailedDesc": "无法更新收藏信息",
+      "batchDeleteSuccess": "批量删除成功",
+      "batchDeleteSuccessDesc": "已删除 {count} 个收藏",
+      "batchDeleteFailed": "批量删除失败",
+      "batchDeleteFailedDesc": "无法批量删除收藏",
+      "checking": "检查中",
+      "checkingDesc": "正在检查 {domain} 的可用性..."
+    },
+    "detail": {
+      "title": "收藏详情",
+      "subtitle": "查看域名收藏的完整信息",
+      "loading": "加载中...",
+      "loadFailed": "加载失败",
+      "loadFailedDesc": "无法加载收藏详情",
+      "notFound": "收藏不存在",
+      "back": "返回",
+      "backToFavorites": "返回收藏列表",
+      "edit": "编辑",
+      "checkAvailability": "检查可用性",
+      "checking": "检查中",
+      "checkingDesc": "正在检查 {domain} 的可用性...",
+      "tags": "标签",
+      "notes": "备注",
+      "favoriteTime": "收藏时间",
+      "lastChecked": "最后检查",
+      "domainInfo": {
+        "title": "域名信息",
+        "subtitle": "关于 {domain} 的基本信息",
+        "domainLength": "域名长度",
+        "domainLengthValue": "{length} 个字符",
+        "tld": "顶级域名",
+        "baseLength": "不含后缀长度",
+        "baseLengthValue": "{length} 个字符",
+        "domainType": "域名类型",
+        "domainTypeValues": {
+          "lettersOnly": "纯字母",
+          "numbersOnly": "纯数字",
+          "alphanumeric": "字母数字混合",
+          "withSpecialChars": "包含特殊字符"
+        }
+      },
+      "timeAgo": {
+        "justNow": "刚刚",
+        "hoursAgo": "{hours}小时前",
+        "daysAgo": "{days}天前"
+      },
+      "availability": {
+        "available": "可用",
+        "registered": "已被注册",
+        "unchecked": "未检查"
+      }
+    }
+  },
+  "favorites": {
+    "title": "我的收藏",
+    "subtitle": "管理您收藏的域名",
+    "empty": "暂无收藏的域名",
+    "emptyDescription": "开始搜索并收藏您喜欢的域名",
+    "addToFavorites": "添加到收藏",
+    "removeFromFavorites": "取消收藏",
+    "available": "可用",
+    "unavailable": "不可用",
+    "notes": "备注",
+    "tags": "标签",
+    "lastChecked": "最后检查",
+    "addNote": "添加备注",
+    "addTags": "添加标签"
+  },
+  "history": {
+    "title": "搜索历史",
+    "subtitle": "查看您的搜索记录",
+    "empty": "暂无搜索历史",
+    "emptyDescription": "开始搜索域名来创建历史记录",
+    "searchTerm": "搜索词",
+    "resultCount": "结果数量",
+    "searchType": "搜索类型",
+    "searchTime": "搜索时间",
+    "viewResults": "查看结果",
+    "loading": "加载中...",
+    "loadFailed": "加载失败",
+    "loadFailedDesc": "无法加载搜索历史",
+    "filters": {
+      "title": "筛选历史记录",
+      "subtitle": "按类型和时间筛选搜索记录",
+      "searchPlaceholder": "搜索历史记录...",
+      "allTypes": "所有类型",
+      "all": "全部"
+    },
+    "noResults": {
+      "title": "没有找到匹配的记录",
+      "subtitle": "尝试调整筛选条件或搜索关键词"
+    },
+    "detail": {
+      "title": "搜索结果回看",
+      "subtitle": "查看「{searchTerm}」的搜索结果和详细信息",
+      "loading": "加载中...",
+      "loadFailed": "加载失败",
+      "loadFailedDesc": "无法加载搜索历史详情",
+      "notFound": "搜索记录不存在",
+      "back": "返回",
+      "backToHistory": "返回搜索历史",
+      "repeatSearch": "重新搜索",
+      "searchInfo": "搜索信息",
+      "searchParams": "搜索参数",
+      "searchTime": "搜索时间",
+      "searchId": "搜索ID",
+      "resultReplay": "搜索结果回放",
+      "resultReplayDesc": "当时找到 {count} 个相关域名，点击域名可以添加到收藏",
+      "addToFavorites": "添加到收藏",
+      "batchAddFavorites": "批量收藏可用域名",
+      "addSuccess": "添加成功",
+      "addSuccessDesc": "{domain} 已添加到收藏",
+      "addFailed": "添加失败",
+      "addFailedDesc": "无法添加到收藏",
+      "visitDomain": "访问域名",
+      "timeAgo": {
+        "justNow": "刚刚",
+        "hoursAgo": "{hours}小时前",
+        "daysAgo": "{days}天前"
+      },
+      "searchType": {
+        "keyword": "关键词",
+        "domain": "域名",
+        "company": "公司"
+      },
+      "stats": {
+        "title": "搜索统计",
+        "subtitle": "此次搜索的统计信息",
+        "totalResults": "总结果数",
+        "searchType": "搜索类型",
+        "searchTermLength": "搜索词长度",
+        "filterCount": "过滤条件数"
+      },
+      "availability": {
+        "available": "可用",
+        "registered": "已注册"
+      },
+      "noResultsData": "暂无搜索结果数据"
+    }
+  },
+  "account": {
+    "profile": {
+      "title": "个人资料",
+      "subtitle": "更新您的个人信息",
+      "avatar": {
+        "upload": "上传新头像",
+        "recommendation": "建议使用正方形图片，最大 2MB",
+        "alt": "用户"
+      },
+      "email": {
+        "label": "邮箱",
+        "readonly": "邮箱地址不可更改"
+      },
+      "fullName": {
+        "label": "姓名",
+        "placeholder": "输入您的姓名"
+      },
+      "updating": "更新中...",
+      "saveButton": "保存更改"
+    },
+    "info": {
+      "title": "账户信息",
+      "subtitle": "查看您的账户详情",
+      "accountId": "账户 ID",
+      "loginMethod": "登录方式",
+      "google": "Google",
+      "email": "邮箱",
+      "createdAt": "注册时间",
+      "lastSignIn": "最后登录",
+      "neverSignedIn": "从未登录"
+    },
+    "dangerZone": {
+      "title": "危险区域",
+      "subtitle": "这些操作不可撤销，请谨慎操作",
+      "deleteAccount": "删除账户",
+      "deleteConfirmTitle": "确定要删除账户吗？",
+      "deleteConfirmDescription": "此操作将永久删除您的账户和所有相关数据。此操作不可撤销。",
+      "cancel": "取消"
+    },
+    "toast": {
+      "updateSuccess": "更新成功",
+      "updateSuccessDesc": "您的个人资料已更新",
+      "updateFailed": "更新失败",
+      "updateFailedDesc": "无法更新您的个人资料，请重试",
+      "featureComingSoon": "功能开发中",
+      "avatarUploadSoon": "头像上传功能即将推出",
+      "uploadFailed": "上传失败",
+      "uploadFailedDesc": "无法上传头像，请重试",
+      "deleteAccountSoon": "账户删除功能即将推出"
+    }
+  },
+  "errors": {
+    "generic": "发生了错误",
+    "networkError": "网络错误",
+    "serverError": "服务器错误",
+    "notFound": "未找到",
+    "unauthorized": "未授权",
+    "forbidden": "禁止访问",
+    "validationError": "验证错误",
+    "loadFailed": "加载失败",
+    "saveFailed": "保存失败",
+    "deleteFailed": "删除失败",
+    "createFailed": "创建失败",
+    "updateFailed": "更新失败"
+  },
+  "footer": {
+    "description": "为你的项目起个好名字。Smart Domain 使用智能算法帮你找到完美的项目名称和可用域名。",
+    "quickLinks": {
+      "title": "快速链接",
+      "home": "首页",
+      "favorites": "我的收藏",
+      "history": "搜索历史",
+      "settings": "设置"
+    },
+    "resources": {
+      "title": "资源",
+      "apiDocs": "API 文档",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "help": "帮助中心"
+    },
+    "copyright": "© {year} Smart Domain. All rights reserved.",
+    "madeWith": "Made with",
+    "by": "by Smart Domain Team"
+  },
+  "apiDocs": {
+    "title": "API 文档",
+    "subtitle": "使用 Smart Domain API 将域名生成功能集成到您的应用中",
+    "features": {
+      "performance": {
+        "title": "高性能",
+        "description": "毫秒级响应，支持批量请求和并发处理"
+      },
+      "security": {
+        "title": "安全可靠",
+        "description": "OAuth 2.0 认证，数据加密传输，99.9% 可用性保证"
+      },
+      "easyToUse": {
+        "title": "简单易用",
+        "description": "RESTful API 设计，详细的文档和示例代码"
+      },
+      "global": {
+        "title": "全球可用",
+        "description": "支持多语言，全球 CDN 加速，本地化响应"
+      }
+    },
+    "quickStart": {
+      "title": "快速开始",
+      "step1": {
+        "title": "1. 获取 API 密钥",
+        "description": "在设置页面中生成您的 API 密钥。每个密钥都有独立的配额和权限控制。"
+      },
+      "step2": {
+        "title": "2. 发送请求",
+        "description": "使用 POST 请求生成域名建议："
+      },
+      "step3": {
+        "title": "3. 获取响应",
+        "description": "API 返回包含域名建议和可用性信息的 JSON 响应："
+      }
+    },
+    "endpoints": {
+      "title": "API 端点",
+      "generate": "生成域名建议",
+      "history": "获取生成历史",
+      "favorites": "获取收藏列表",
+      "addFavorite": "添加到收藏"
+    },
+    "sdk": {
+      "title": "SDK 支持",
+      "description": "我们提供多种编程语言的官方 SDK，让集成更加简单："
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：{date}",
+    "date": "2025年7月",
+    "principles": {
+      "title": "我们的隐私原则",
+      "dataMinimization": {
+        "title": "数据最小化",
+        "description": "只收集必要的信息"
+      },
+      "transparency": {
+        "title": "透明度",
+        "description": "清楚说明数据用途"
+      },
+      "security": {
+        "title": "安全存储",
+        "description": "加密保护您的数据"
+      }
+    },
+    "dataCollection": {
+      "title": "我们收集哪些信息",
+      "account": {
+        "title": "账户信息",
+        "items": [
+          "电子邮箱地址（用于账户注册和通知）",
+          "用户名（可选）",
+          "头像（如果您选择上传）"
+        ]
+      },
+      "usage": {
+        "title": "使用数据",
+        "items": [
+          "域名搜索历史（用于提供历史记录功能）",
+          "收藏的域名（用于收藏夹功能）",
+          "API 使用统计（用于配额管理）"
+        ]
+      },
+      "technical": {
+        "title": "技术信息",
+        "items": [
+          "IP 地址（用于安全和防止滥用）",
+          "浏览器类型和版本",
+          "设备信息",
+          "访问时间和页面浏览记录"
+        ]
+      }
+    },
+    "dataUsage": {
+      "title": "我们如何使用您的信息",
+      "items": [
+        "提供、维护和改进我们的服务",
+        "处理您的请求和交易",
+        "发送服务相关的通知和更新",
+        "分析使用模式以改善用户体验",
+        "保护服务安全，防止欺诈和滥用"
+      ]
+    },
+    "dataSharing": {
+      "title": "数据共享和披露",
+      "noSelling": {
+        "title": "我们不会出售您的个人信息",
+        "description": "我们承诺永远不会将您的个人信息出售给第三方。"
+      },
+      "sharingCases": "我们可能在以下情况下共享您的信息：",
+      "cases": [
+        "获得您的明确同意",
+        "遵守法律法规要求",
+        "保护我们的权利、财产或安全",
+        "与受信任的服务提供商合作（如托管服务）"
+      ]
+    },
+    "dataSecurity": {
+      "title": "数据安全",
+      "description": "我们采取多重安全措施保护您的信息：",
+      "measures": {
+        "encryption": {
+          "title": "加密传输",
+          "description": "使用 HTTPS 加密所有数据传输"
+        },
+        "storage": {
+          "title": "安全存储",
+          "description": "数据库加密和访问控制"
+        },
+        "audit": {
+          "title": "定期审计",
+          "description": "定期安全审计和漏洞扫描"
+        },
+        "response": {
+          "title": "事件响应",
+          "description": "24小时安全事件响应团队"
+        }
+      }
+    },
+    "yourRights": {
+      "title": "您的权利",
+      "description": "您对自己的个人信息拥有以下权利：",
+      "access": {
+        "title": "访问权",
+        "description": "您可以请求访问我们存储的关于您的个人信息副本"
+      },
+      "correction": {
+        "title": "更正权",
+        "description": "您可以要求更正不准确或不完整的个人信息"
+      },
+      "deletion": {
+        "title": "删除权",
+        "description": "您可以要求删除您的个人信息（某些法律要求除外）"
+      },
+      "portability": {
+        "title": "数据可携带权",
+        "description": "您可以请求以机器可读格式接收您的个人信息"
+      }
+    },
+    "contact": {
+      "title": "联系我们",
+      "description": "如果您对我们的隐私政策有任何疑问或意见，请通过以下方式联系我们：",
+      "email": "privacy@smartdomain.com",
+      "alternative": "或通过网站的帮助中心提交请求"
+    }
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：{date} | 生效日期：{effectiveDate}",
+    "date": "2025年7月",
+    "effectiveDate": "2025年7月1日",
+    "importantNotice": {
+      "title": "重要提示",
+      "description": "请仔细阅读这些服务条款。使用 Smart Domain 即表示您同意受这些条款的约束。如果您不同意这些条款，请不要使用我们的服务。"
+    },
+    "overview": {
+      "title": "条款概览",
+      "freeUse": {
+        "title": "免费使用",
+        "description": "基础功能永久免费，付费功能可选"
+      },
+      "dataSecurity": {
+        "title": "数据安全",
+        "description": "您的数据归您所有，我们负责保护"
+      },
+      "fairUse": {
+        "title": "公平使用",
+        "description": "合理使用，禁止滥用和恶意行为"
+      },
+      "userResponsibility": {
+        "title": "用户责任",
+        "description": "遵守法律，尊重他人知识产权"
+      }
+    },
+    "serviceDescription": {
+      "title": "1. 服务描述",
+      "description": "Smart Domain（以下简称“服务”）是一个智能域名生成和建议平台，旨在帮助用户为其项目、企业或个人品牌找到合适的域名。",
+      "includes": "我们的服务包括但不限于：",
+      "features": [
+        "基于人工智能的域名生成建议",
+        "域名可用性实时检查",
+        "域名收藏和历史记录管理",
+        "API 访问（适用于开发者）",
+        "高级功能（付费订阅）"
+      ]
+    },
+    "usageTerms": {
+      "title": "2. 使用条款",
+      "accountRegistration": {
+        "title": "2.1 账户注册",
+        "items": [
+          "您必须提供准确、完整的注册信息",
+          "您有责任维护账户安全和密码保密",
+          "一个人或实体只能注册一个账户",
+          "您必须年满 13 岁才能使用本服务"
+        ]
+      },
+      "acceptableUse": {
+        "title": "2.2 可接受的使用",
+        "description": "您同意不会：",
+        "items": [
+          "违反任何适用的法律或法规",
+          "侵犯他人的知识产权或其他权利",
+          "传播恶意软件或有害代码",
+          "进行自动化攻击或滥用服务",
+          "尝试绕过使用限制或安全措施",
+          "转售或未经授权分发服务"
+        ]
+      }
+    },
+    "intellectualProperty": {
+      "title": "3. 知识产权",
+      "yourContent": {
+        "title": "您的内容",
+        "description": "您保留对您创建的内容的所有权利。通过使用我们的服务，您授予我们必要的许可来运营服务。"
+      },
+      "ourContent": {
+        "title": "我们的内容",
+        "description": "Smart Domain 的软件、设计、文本、图形和其他内容受版权法和其他知识产权法保护。"
+      },
+      "domainSuggestions": {
+        "title": "域名建议",
+        "description": "我们生成的域名建议不构成商标或版权声明。用户有责任确保所选域名不侵犯他人权利。"
+      }
+    },
+    "paidServices": {
+      "title": "4. 付费服务和退款",
+      "subscription": {
+        "title": "4.1 订阅和计费",
+        "items": [
+          "付费订阅按月或按年计费",
+          "价格可能会变更，但不会影响现有订阅期",
+          "自动续订可以随时取消"
+        ]
+      },
+      "refundPolicy": {
+        "title": "4.2 退款政策",
+        "highlight": "7 天无条件退款",
+        "description": "新订阅用户在购买后 7 天内可申请全额退款，无需说明理由。"
+      }
+    },
+    "disclaimer": {
+      "title": "5. 免责声明和责任限制",
+      "asIs": {
+        "title": "服务按原样提供：",
+        "description": "我们努力提供可靠的服务，但不能保证服务始终可用或无错误。"
+      },
+      "domainAvailability": {
+        "title": "域名可用性：",
+        "description": "域名可用性信息仅供参考，实际注册时可能会有变化。"
+      },
+      "liability": {
+        "title": "责任限制：",
+        "description": "在法律允许的最大范围内，Smart Domain 对任何间接、附带、特殊或后果性损害不承担责任。"
+      }
+    },
+    "privacyAndData": {
+      "title": "6. 隐私和数据保护",
+      "description": "您的隐私对我们很重要。请查看我们的隐私政策，了解我们如何收集、使用和保护您的信息。",
+      "commitment": "我们承诺保护您的数据安全，不会出售您的个人信息。"
+    },
+    "termination": {
+      "title": "7. 终止",
+      "userTermination": "您可以随时停止使用我们的服务并删除您的账户。",
+      "ourRights": "我们保留在以下情况下暂停或终止您的账户的权利：",
+      "reasons": [
+        "违反这些服务条款",
+        "从事欺诈或非法活动",
+        "滥用服务或对其他用户造成伤害"
+      ]
+    },
+    "modifications": {
+      "title": "8. 条款修改",
+      "description": "我们可能会不时更新这些条款。重大变更时，我们会通过电子邮件或服务内通知您。继续使用服务即表示您接受修改后的条款。"
+    },
+    "contactInfo": {
+      "title": "9. 联系我们",
+      "description": "如果您对这些服务条款有任何疑问，请联系我们：",
+      "department": "Smart Domain 法务部",
+      "email": "电子邮件：legal@smartdomain.com",
+      "address": "地址：中国上海市浦东新区"
+    }
+  },
+  "help": {
+    "title": "帮助中心",
+    "subtitle": "寻找答案，学习使用技巧，或联系我们的支持团队",
+    "search": {
+      "placeholder": "搜索帮助文章..."
+    },
+    "quickLinks": {
+      "quickStart": {
+        "title": "快速开始",
+        "description": "5分钟上手指南"
+      },
+      "tutorials": {
+        "title": "使用教程",
+        "description": "详细功能说明"
+      },
+      "billing": {
+        "title": "账单相关",
+        "description": "订阅和付款"
+      },
+      "support": {
+        "title": "联系支持",
+        "description": "获取帮助"
+      }
+    },
+    "faq": {
+      "title": "常见问题分类",
+      "gettingStarted": {
+        "title": "开始使用",
+        "questions": [
+          "如何创建账户？",
+          "如何生成域名建议？",
+          "什么是智能命名算法？",
+          "如何保存喜欢的域名？"
+        ]
+      },
+      "features": {
+        "title": "功能使用",
+        "questions": [
+          "如何使用高级筛选？",
+          "如何导出域名列表？",
+          "历史记录保存多久？",
+          "如何分享域名建议？"
+        ]
+      },
+      "billing": {
+        "title": "账单和订阅",
+        "questions": [
+          "有哪些订阅计划？",
+          "如何升级订阅？",
+          "如何取消订阅？",
+          "支持哪些付款方式？"
+        ]
+      },
+      "api": {
+        "title": "API 开发",
+        "questions": [
+          "如何获取 API 密钥？",
+          "API 速率限制是多少？",
+          "如何处理 API 错误？",
+          "有示例代码吗？"
+        ]
+      }
+    },
+    "popularArticles": {
+      "title": "热门文章",
+      "articles": [
+        {
+          "title": "完整使用指南：从入门到精通",
+          "description": "了解 Smart Domain 的所有功能，成为域名生成专家",
+          "readTime": "5 分钟阅读"
+        },
+        {
+          "title": "10个技巧：找到完美的域名",
+          "description": "专业建议帮助您选择令人难忘的域名",
+          "readTime": "3 分钟阅读"
+        },
+        {
+          "title": "API 集成最佳实践",
+          "description": "将 Smart Domain API 无缝集成到您的应用中",
+          "readTime": "8 分钟阅读"
+        }
+      ]
+    },
+    "contactSupport": {
+      "title": "还需要帮助？",
+      "description": "我们的支持团队随时准备为您提供帮助。通过邮件或在线聊天联系我们。",
+      "emailButton": "发送邮件",
+      "chatButton": "在线聊天",
+      "workingHours": "工作时间：周一至周五 9:00-18:00 (UTC+8)"
+    }
+  }
+}

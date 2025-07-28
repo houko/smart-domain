@@ -1,0 +1,12 @@
+Contact: mailto:security@smart-domain.com
+Contact: https://smart-domain.com/security
+Expires: 2025-12-31T23:59:59.000Z
+Acknowledgments: https://smart-domain.com/security/acknowledgments
+Preferred-Languages: zh-CN, en, ja
+Canonical: https://smart-domain.com/.well-known/security.txt
+Policy: https://smart-domain.com/security/policy
+
+# 安全问题报告说明
+# 如果您发现任何安全漏洞，请通过上述联系方式向我们报告
+# 我们会在24小时内回复并在合理时间内修复问题
+# 感谢您帮助我们保持服务的安全性

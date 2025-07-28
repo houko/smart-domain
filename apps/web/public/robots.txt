@@ -1,0 +1,33 @@
+User-agent: *
+Allow: /
+
+# 禁止访问私人页面
+Disallow: /settings/
+Disallow: /api/
+Disallow: /auth/
+
+# 禁止访问临时文件
+Disallow: *.json$
+Disallow: /test-*
+
+# 允许访问重要资源
+Allow: /favicon.ico
+Allow: /favicon.svg
+Allow: /*.css$
+Allow: /*.js$
+
+# Sitemap位置
+Sitemap: https://smart-domain.com/sitemap.xml
+
+# 爬虫延迟（可选）
+Crawl-delay: 1
+
+# 特定搜索引擎优化
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /

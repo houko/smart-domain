@@ -1,0 +1,1181 @@
+{
+  "metadata": {
+    "title": "Smart Domain Generator",
+    "description": "AI-driven project naming and domain suggestion system"
+  },
+  "logo": {
+    "title": "Smart Domain",
+    "subtitle": "Domain Generator"
+  },
+  "nav": {
+    "home": "Home",
+    "settings": "Settings",
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "favorites": "Favorites",
+    "history": "History"
+  },
+  "home": {
+    "title": "Smart Domain Generator",
+    "subtitle": "AI-driven project naming and domain suggestion system",
+    "description": "Describe your project idea",
+    "placeholder": "Example: I want to create a social app for pet owners to share photos and daily life",
+    "generateButton": "Generate Suggestions",
+    "generating": "Generating...",
+    "searchButton": "Search",
+    "results": {
+      "title": "Search Results",
+      "foundSuggestions": "Found {count} project suggestions",
+      "myFavorites": "My Favorites",
+      "searchHistory": "Search History"
+    },
+    "analysis": {
+      "title": "AI Analysis Results",
+      "keywords": "Extracted keywords:"
+    },
+    "domains": {
+      "purchase": "Purchase",
+      "availableCount": "Available domains: {count}"
+    },
+    "hero": {
+      "findPerfect": "Find the perfect",
+      "domain": "domain",
+      "subtitle": "Simply describe your idea, and AI will intelligently generate project names and check domain availability in real-time. Simple, fast, intelligent.",
+      "startButton": "Start Generating Domains"
+    },
+    "whyChooseUs": {
+      "badge": "Core Advantages",
+      "title": "Why Choose Us?",
+      "subtitle": "Integrated with the latest AI technology, providing you with the smartest domain generation experience"
+    },
+    "features": {
+      "aiAnalysis": {
+        "title": "AI Smart Analysis",
+        "description": "Deep understanding of your creativity",
+        "content": "Using advanced natural language processing technology to deeply understand your project needs, intelligently extract keywords and perform semantic expansion, generating domain suggestions that best match your ideas."
+      },
+      "multiStrategy": {
+        "title": "Multi-Strategy Naming",
+        "description": "Innovative naming methods",
+        "content": "Using various professional naming strategies such as direct combination, concept fusion, and creating new words to ensure generated domains are both creative and memorable, perfectly matching your brand image."
+      },
+      "realTimeQuery": {
+        "title": "Real-time Query",
+        "description": "Instant availability check",
+        "content": "Batch real-time query domain availability, displaying detailed registration information and prices, one-click jump to purchase links, allowing you to quickly lock in your favorite domain."
+      },
+      "smartFavorites": {
+        "title": "Smart Favorites",
+        "description": "Personalized management",
+        "content": "Intelligently bookmark favorite domains, support tag classification and note management, and track domain status changes to ensure you don't miss any registration opportunities.",
+        "statsText": "{count} domains have been bookmarked"
+      },
+      "searchHistory": {
+        "title": "Search History",
+        "description": "Complete record review",
+        "content": "Completely save your search history and results, support re-viewing historical search results, allowing you to easily compare creative ideas from different periods.",
+        "statsText": "{count} searches today"
+      },
+      "secure": {
+        "title": "Secure & Reliable",
+        "description": "Data privacy protection",
+        "content": "Using enterprise-level security standards to protect your search data and creative ideas, supporting data export, giving you complete control over your information."
+      }
+    },
+    "stats": {
+      "badge": "Live Data",
+      "title": "Trustworthy Data",
+      "usersHelped": "Helped {count} users find ideal domains",
+      "usersHelpedDefault": "Helped millions of users find ideal domains",
+      "domainsGenerated": "Domains Generated",
+      "usersTrust": "User Trust",
+      "availability": "Service Availability",
+      "onlineService": "Online Service"
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Start using Smart Domain Generator now to find the perfect domain for your next project",
+      "startButton": "Get Started",
+      "demoButton": "View Feature Demo"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account and preferences",
+    "general": "General Settings",
+    "apiKeys": "API Keys",
+    "billing": "Billing",
+    "favorites": "Favorites",
+    "history": "History",
+    "preferences": "Preferences",
+    "security": "Security",
+    "navigation": {
+      "account": "Account",
+      "domainFavorites": "Domain Favorites",
+      "searchHistory": "Search History",
+      "preferences": "Preferences",
+      "security": "Security",
+      "apiKeys": "API Keys",
+      "subscription": "Subscription"
+    }
+  },
+  "apiKeys": {
+    "title": "API Key Management",
+    "subtitle": "Manage your API access keys",
+    "createButton": "Create API Key",
+    "noKeys": "No API keys yet",
+    "noKeysDescription": "Create your first API key to start using the API",
+    "usage": "Usage Instructions",
+    "usageDescription": "Include the API key in your request headers to access our API",
+    "examples": "Code Examples",
+    "healthCheck": "Health Check",
+    "copy": "Copy",
+    "copySuccess": "Copied successfully",
+    "createTitle": "Create new API key",
+    "createDescription": "Create a new API access key for your application",
+    "keyName": "Name",
+    "keyNamePlaceholder": "e.g.: Production environment key",
+    "keyDescription": "Description (optional)",
+    "keyDescriptionPlaceholder": "Describe the purpose of this key",
+    "cancel": "Cancel",
+    "create": "Create",
+    "creating": "Creating...",
+    "newKeyTitle": "Your new API key",
+    "newKeyDescription": "Please copy and securely store your API key immediately. For security reasons, it will only be shown once.",
+    "newKeyWarning": "This key will not be displayed again. If you lose it, you will need to generate a new one.",
+    "saved": "I have saved it",
+    "monthlyUsage": "Monthly usage: {count} times",
+    "createdAt": "Created on",
+    "lastUsed": "Last used",
+    "viewUsage": "View usage",
+    "delete": "Delete",
+    "deleteConfirm": "Are you sure you want to delete this API key?",
+    "deleteDescription": "After deletion, applications using this key will not be able to access the API. This action cannot be undone.",
+    "loadFailed": "Load Failed",
+    "loadFailedDescription": "Unable to load API key list",
+    "nameRequired": "Please enter a name",
+    "nameRequiredDescription": "API key name cannot be empty",
+    "notLoggedIn": "Not logged in",
+    "createSuccess": "Created successfully",
+    "createSuccessDescription": "Please save your API key securely, it will only be shown once",
+    "createFailed": "Creation failed",
+    "createFailedDescription": "Unable to create API key, please try again",
+    "deleteSuccess": "Deleted successfully",
+    "deleteSuccessDescription": "API key has been deleted",
+    "deleteFailed": "Deletion failed",
+    "deleteFailedDescription": "Unable to delete API key, please try again",
+    "copySuccessDescription": "API key has been copied to clipboard",
+    "copyFailed": "Copy failed",
+    "copyFailedDescription": "Unable to copy to clipboard",
+    "curlCopyDescription": "Please replace YOUR_API_KEY with your actual key",
+    "copyCurlCommand": "Copy cURL command",
+    "usageInstructions": {
+      "title": "How to use API keys",
+      "description": "Include the API key in your request headers to access our API",
+      "authorizationHeader": "Authorization: Bearer YOUR_API_KEY",
+      "codeExamples": "Code Examples",
+      "healthCheckTitle": "API Health Check",
+      "healthCheckButton": "Check API Status",
+      "healthCheckCopy": "Copy health check command",
+      "healthCheckSuccess": "Service Normal",
+      "healthCheckSuccessDesc": "API service is running normally ({status})",
+      "healthCheckError": "Service Error",
+      "healthCheckErrorDesc": "Service status abnormal",
+      "healthCheckFailed": "Check Failed",
+      "healthCheckFailedDesc": "Unable to connect to API service",
+      "healthCheckCopySuccess": "Health check command copied",
+      "healthCheckCodeCopySuccess": "Health check code copied",
+      "expectedResponse": "Expected response",
+      "smartHomeExample": "Smart home control system",
+      "notes": {
+        "apiKeyAuth": "API keys are used to authenticate your application identity",
+        "secureStorage": "Do not expose your API keys in client-side code",
+        "keyRotation": "Regularly rotate your API keys to improve security",
+        "rateLimits": "Request limits for each key depend on your subscription plan"
+      }
+    },
+    "usageDialog": {
+      "title": "API Usage Statistics",
+      "subtitle": "Recent 100 call records",
+      "noRecords": "No usage records yet",
+      "tableHeaders": {
+        "time": "Time",
+        "endpoint": "Endpoint",
+        "method": "Method",
+        "status": "Status",
+        "ipAddress": "IP Address"
+      },
+      "close": "Close"
+    }
+  },
+  "preferences": {
+    "title": "Preferences",
+    "subtitle": "Customize your experience",
+    "saveButton": "Save Preferences",
+    "saving": "Saving...",
+    "saveSuccess": "Save Successful",
+    "saveSuccessDesc": "Your preferences have been updated",
+    "saveFailed": "Save Failed",
+    "saveFailedDesc": "Unable to save your preferences, please try again",
+    "notifications": {
+      "title": "Notification Settings",
+      "subtitle": "Manage your notification preferences",
+      "emailNotifications": {
+        "label": "Email Notifications",
+        "description": "Receive important updates and reminders"
+      },
+      "domainAlerts": {
+        "label": "Domain Alerts",
+        "description": "Get notified when domains you're watching become available"
+      },
+      "newsletter": {
+        "label": "Newsletter",
+        "description": "Get product updates and promotional information"
+      }
+    },
+    "display": {
+      "title": "Display Settings",
+      "subtitle": "Customize interface display",
+      "language": {
+        "label": "Language",
+        "options": {
+          "zh-CN": "Simplified Chinese",
+          "zh-TW": "Traditional Chinese",
+          "en-US": "English",
+          "ja-JP": "Japanese"
+        }
+      },
+      "resultCount": {
+        "label": "Default Result Count",
+        "options": {
+          "5": "5 results",
+          "10": "10 results",
+          "20": "20 results",
+          "50": "50 results"
+        }
+      }
+    },
+    "features": {
+      "title": "Feature Settings",
+      "subtitle": "Enable or disable specific features",
+      "autoSave": {
+        "label": "Auto Save",
+        "description": "Automatically save your search history and favorites"
+      }
+    }
+  },
+  "billing": {
+    "title": "Subscription Management",
+    "subtitle": "Manage your subscription and view usage",
+    "currentPlan": "Current Plan",
+    "currentPlanDescription": "You are currently using {plan}",
+    "active": "Active",
+    "monthlyQuota": "Monthly limit of {limit} queries",
+    "unlimitedQuota": "Unlimited queries",
+    "usedQuota": "Used this month: {used} / {limit} queries",
+    "usedQuotaUnlimited": "Used this month: {used} / unlimited queries",
+    "usageWarning": "You have used {percentage}% of your quota",
+    "upgrade": "Upgrade your plan",
+    "upgradeButton": "Upgrade",
+    "currentPlanButton": "Current Plan",
+    "upgradeComingSoon": "Upgrade feature not yet available",
+    "upgradeDescription": "Upgrade functionality is under development, stay tuned",
+    "billingHistory": "Billing History",
+    "billingHistoryDescription": "View your payment records",
+    "noBillingHistory": "No billing records",
+    "currentUsage": "Current Usage",
+    "currentUsageDescription": "Monthly query usage statistics",
+    "domainQuery": "Domain Queries",
+    "usageResetOn": "Usage will reset on {date}",
+    "subscriptionPlans": "Subscription Plans",
+    "upgradeSuccess": "Upgrade Successful",
+    "upgradeSuccessDescription": "You have successfully upgraded to the new plan",
+    "upgradeFailed": "Upgrade Failed",
+    "upgradeFailedDescription": "Unable to upgrade plan, please try again",
+    "perMonth": "/month",
+    "plans": {
+      "free": "Free",
+      "pro": "Pro",
+      "enterprise": "Enterprise",
+      "popular": "Most Popular"
+    },
+    "features": {
+      "monthlyQueries50": "50 domain queries per month",
+      "monthlyQueries500": "500 domain queries per month",
+      "unlimitedQueries": "Unlimited domain queries",
+      "basicAI": "Basic AI suggestions",
+      "advancedAI": "Advanced AI analysis",
+      "enterpriseAI": "Enterprise AI analysis",
+      "searchHistory7Days": "Search history (7 days)",
+      "unlimitedHistory": "Unlimited search history",
+      "batchQuery": "Batch queries",
+      "batchQuery50": "Batch queries (up to 50)",
+      "batchQueryUnlimited": "Batch queries (unlimited)",
+      "apiAccess": "API access",
+      "fullApiAccess": "Full API access",
+      "prioritySupport": "Priority support",
+      "support247": "24/7 dedicated support",
+      "customDomainSuggestions": "Custom domain suggestions",
+      "dataExport": "Complete data export",
+      "customSolutions": "Custom solutions"
+    }
+  },
+  "security": {
+    "title": "Security Settings",
+    "subtitle": "Manage your account security and login sessions",
+    "account": {
+      "title": "Account Information",
+      "subtitle": "Your login method and account details",
+      "loginMethod": "Login Method",
+      "googleAccount": "Google Account",
+      "googleSecurity": "Google Security Settings",
+      "protectedBy": "Your account is protected by Google OAuth. All security settings (including passwords, two-factor authentication, etc.) are managed by Google.",
+      "manageGoogle": "To change your password or enable two-factor authentication, please visit your Google account security settings."
+    },
+    "sessions": {
+      "title": "Active Sessions",
+      "subtitle": "View device and location information for current login sessions",
+      "loading": "Getting session information...",
+      "noSessions": "No active sessions",
+      "currentDevice": "Current Device",
+      "currentActive": "Currently Active",
+      "signOutTitle": "Sign out of this session",
+      "unknown": {
+        "location": "Unknown Location",
+        "ip": "Unknown",
+        "device": "Unknown Device",
+        "browser": "Unknown Browser"
+      },
+      "device": "Device",
+      "ipInfo": "Unable to get IP information",
+      "loadFailed": "Failed to load sessions"
+    },
+    "actions": {
+      "title": "Account Actions",
+      "subtitle": "Manage your login status",
+      "signOutAllTitle": "Sign Out All Devices",
+      "signOutAllDesc": "This will sign you out on all devices and require re-login to access your account.",
+      "signOutButton": "Sign Out All Devices",
+      "signOutSuccess": "Successfully Signed Out",
+      "signOutSuccessDesc": "You have successfully signed out",
+      "signOutFailed": "Sign Out Failed",
+      "signOutFailedDesc": "Unable to sign out, please try again"
+    },
+    "recommendations": {
+      "title": "Security Recommendations",
+      "subtitle": "Best practices to protect your account security",
+      "tips": {
+        "twoFactor": "Enable two-factor authentication in your Google account",
+        "checkSessions": "Regularly check current session information to confirm it's your activity",
+        "signOutPublic": "Sign out promptly after using unfamiliar devices",
+        "noPublicDevices": "Don't stay logged in on public devices",
+        "checkActivity": "Regularly check your Google account security activity logs",
+        "changePassword": "If you discover unusual login activity, immediately change your Google account password"
+      }
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "loginTitle": "Welcome back",
+    "loginSubtitle": "Sign in to your account",
+    "loginWithGoogle": "Sign in with Google",
+    "loginWithGitHub": "Sign in with GitHub",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "signUpTitle": "Create account",
+    "signUpSubtitle": "Get started with Smart Domain Generator",
+    "haveAccount": "Already have an account?",
+    "loading": "Loading...",
+    "unauthorized": "Please sign in first"
+  },
+  "domainGenerator": {
+    "validation": {
+      "minLength": "Description must be at least 5 characters",
+      "maxLength": "Description cannot exceed 500 characters"
+    },
+    "title": "Describe your project idea",
+    "subtitle": "Enter your project description, and AI will generate suitable project names and domain suggestions for you",
+    "placeholder": "Example: I want to create a social app for pet owners to share photos and daily life",
+    "generateButton": "Generate Suggestions",
+    "generating": "Generating...",
+    "generateError": "Generation Failed",
+    "generateErrorDesc": "An error occurred while generating domain suggestions, please try again later",
+    "results": {
+      "title": "Search Results",
+      "foundSuggestions": "Found {count} project suggestions",
+      "myFavorites": "My Favorites",
+      "searchHistory": "Search History"
+    },
+    "analysis": {
+      "title": "AI Analysis Results",
+      "keywords": "Extracted keywords:"
+    },
+    "domains": {
+      "purchase": "Purchase",
+      "availableCount": "Available domains: {count}"
+    },
+    "favorites": {
+      "added": "Favorited",
+      "addedDesc": "Domain {domain} has been added to favorites",
+      "removed": "Unfavorited",
+      "removedDesc": "Domain {domain} has been removed from favorites",
+      "addFailed": "Failed to favorite",
+      "removeFailed": "Failed to unfavorite",
+      "operationFailed": "Operation failed, please try again later",
+      "searchNote": "Found through search \"{query}\"",
+      "checkFailed": "Failed to check favorite status",
+      "saveFailed": "Failed to save search history"
+    }
+  },
+  "language": {
+    "chinese": "中文",
+    "english": "English",
+    "japanese": "日本語",
+    "language": "Language",
+    "fallback": "Language"
+  },
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in with your Google account to continue",
+    "googleLogin": "Sign in with Google",
+    "loginFailed": "Login failed, please try again",
+    "signingIn": "Signing in...",
+    "agreement": "By signing in, you agree to our Terms of Service and Privacy Policy"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist. Please check the URL or return to the homepage.",
+    "backHome": "Back to Home"
+  },
+  "error": {
+    "title": "Something went wrong",
+    "description": "Sorry, we encountered an unexpected error. Please try refreshing the page or try again later.",
+    "retry": "Try Again"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import",
+    "refresh": "Refresh",
+    "reset": "Reset",
+    "submit": "Submit",
+    "apply": "Apply",
+    "clear": "Clear",
+    "select": "Select",
+    "selectAll": "Select All",
+    "language": "Language"
+  },
+  "favoritesPage": {
+    "title": "Domain Favorites",
+    "subtitle": "Manage your favorite domains",
+    "batchManage": "Batch Management",
+    "cancelBatch": "Cancel Batch",
+    "deleteSelected": "Delete Selected",
+    "confirmBatchDelete": "Confirm Batch Delete",
+    "batchDeleteDescription": "Are you sure you want to delete the selected {count} favorites? This action cannot be undone.",
+    "confirmDelete": "Confirm Delete",
+    "selectFavorites": "Select Favorites",
+    "selectedCount": "Selected {count} favorites",
+    "clickToSelect": "Click the checkbox in front of favorites to select",
+    "searchPlaceholder": "Search domains or notes...",
+    "filterAll": "All",
+    "filterAvailable": "Available",
+    "filterRegistered": "Registered",
+    "loading": "Loading...",
+    "empty": {
+      "title": "No domains favorited yet",
+      "description": "Click the heart icon in search results to favorite domains",
+      "searchButton": "Start Searching Domains"
+    },
+    "found": "Found {count} favorited domains",
+    "total": "Total {count} favorited domains",
+    "viewDetails": "View Details",
+    "actions": {
+      "edit": "Edit Favorite",
+      "checkAvailability": "Check Availability",
+      "delete": "Delete Favorite"
+    },
+    "status": {
+      "available": "Available",
+      "registered": "Registered",
+      "unchecked": "Unchecked"
+    },
+    "dates": {
+      "favoriteAt": "Favorited on",
+      "checkedAt": "Checked on"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "pageInfo": "Page {current} of {total}"
+    },
+    "stats": {
+      "title": "Favorites Statistics",
+      "description": "Overview of your domain favorites",
+      "totalFavorites": "Total Favorites",
+      "availableDomains": "Available Domains",
+      "registeredDomains": "Registered",
+      "domainExtensions": "Domain Extensions"
+    },
+    "edit": {
+      "title": "Edit Favorite",
+      "subtitle": "Modify tags, notes and availability status of favorites",
+      "tags": "Tags",
+      "tagPlaceholder": "Enter tag name",
+      "addTag": "Add",
+      "notes": "Notes",
+      "notesPlaceholder": "Add favorite notes...",
+      "availability": "Availability Status",
+      "save": "Save Changes"
+    },
+    "toast": {
+      "loadFailed": "Load Failed",
+      "loadFailedDesc": "Unable to load favorites list",
+      "removed": "Removed",
+      "removedDesc": "Domain has been removed from favorites",
+      "deleteFailed": "Delete Failed",
+      "deleteFailedDesc": "Unable to delete favorite",
+      "updateSuccess": "Update Successful",
+      "updateSuccessDesc": "Favorite information has been updated",
+      "updateFailed": "Update Failed",
+      "updateFailedDesc": "Unable to update favorite information",
+      "batchDeleteSuccess": "Batch Delete Successful",
+      "batchDeleteSuccessDesc": "Deleted {count} favorites",
+      "batchDeleteFailed": "Batch Delete Failed",
+      "batchDeleteFailedDesc": "Unable to batch delete favorites",
+      "checking": "Checking",
+      "checkingDesc": "Checking availability of {domain}..."
+    },
+    "detail": {
+      "title": "Favorite Details",
+      "subtitle": "View complete information about domain favorite",
+      "loading": "Loading...",
+      "loadFailed": "Load Failed",
+      "loadFailedDesc": "Unable to load favorite details",
+      "notFound": "Favorite not found",
+      "back": "Back",
+      "backToFavorites": "Back to Favorites",
+      "edit": "Edit",
+      "checkAvailability": "Check Availability",
+      "checking": "Checking",
+      "checkingDesc": "Checking availability of {domain}...",
+      "tags": "Tags",
+      "notes": "Notes",
+      "favoriteTime": "Favorite Time",
+      "lastChecked": "Last Checked",
+      "domainInfo": {
+        "title": "Domain Information",
+        "subtitle": "Basic information about {domain}",
+        "domainLength": "Domain Length",
+        "domainLengthValue": "{length} characters",
+        "tld": "Top Level Domain",
+        "baseLength": "Length without suffix",
+        "baseLengthValue": "{length} characters",
+        "domainType": "Domain Type",
+        "domainTypeValues": {
+          "lettersOnly": "Letters only",
+          "numbersOnly": "Numbers only",
+          "alphanumeric": "Alphanumeric",
+          "withSpecialChars": "Contains special characters"
+        }
+      },
+      "timeAgo": {
+        "justNow": "Just now",
+        "hoursAgo": "{hours} hours ago",
+        "daysAgo": "{days} days ago"
+      },
+      "availability": {
+        "available": "Available",
+        "registered": "Registered",
+        "unchecked": "Unchecked"
+      }
+    }
+  },
+  "favorites": {
+    "title": "My Favorites",
+    "subtitle": "Manage your favorite domains",
+    "empty": "No favorite domains yet",
+    "emptyDescription": "Start searching and favorite domains you like",
+    "addToFavorites": "Add to favorites",
+    "removeFromFavorites": "Remove from favorites",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "notes": "Notes",
+    "tags": "Tags",
+    "lastChecked": "Last checked",
+    "addNote": "Add note",
+    "addTags": "Add tags"
+  },
+  "history": {
+    "title": "Search History",
+    "subtitle": "View your search records",
+    "empty": "No search history yet",
+    "emptyDescription": "Start searching for domains to create history",
+    "searchTerm": "Search term",
+    "resultCount": "Result count",
+    "searchType": "Search type",
+    "searchTime": "Search time",
+    "viewResults": "View results",
+    "loading": "Loading...",
+    "loadFailed": "Load Failed",
+    "loadFailedDesc": "Unable to load search history",
+    "filters": {
+      "title": "Filter History",
+      "subtitle": "Filter search records by type and time",
+      "searchPlaceholder": "Search history...",
+      "allTypes": "All Types",
+      "all": "All"
+    },
+    "noResults": {
+      "title": "No matching records found",
+      "subtitle": "Try adjusting your filters or search keywords"
+    },
+    "detail": {
+      "title": "Search Result Review",
+      "subtitle": "View search results and details for \"{searchTerm}\"",
+      "loading": "Loading...",
+      "loadFailed": "Load Failed",
+      "loadFailedDesc": "Unable to load search history details",
+      "notFound": "Search record not found",
+      "back": "Back",
+      "backToHistory": "Back to Search History",
+      "repeatSearch": "Search Again",
+      "searchInfo": "Search Information",
+      "searchParams": "Search Parameters",
+      "searchTime": "Search Time",
+      "searchId": "Search ID",
+      "resultReplay": "Search Result Replay",
+      "resultReplayDesc": "Found {count} related domains at that time, click domains to add to favorites",
+      "addToFavorites": "Add to Favorites",
+      "batchAddFavorites": "Batch Add Available Domains",
+      "addSuccess": "Added Successfully",
+      "addSuccessDesc": "{domain} has been added to favorites",
+      "addFailed": "Failed to Add",
+      "addFailedDesc": "Unable to add to favorites",
+      "visitDomain": "Visit Domain",
+      "timeAgo": {
+        "justNow": "Just now",
+        "hoursAgo": "{hours} hours ago",
+        "daysAgo": "{days} days ago"
+      },
+      "searchType": {
+        "keyword": "Keyword",
+        "domain": "Domain",
+        "company": "Company"
+      },
+      "stats": {
+        "title": "Search Statistics",
+        "subtitle": "Statistics for this search",
+        "totalResults": "Total Results",
+        "searchType": "Search Type",
+        "searchTermLength": "Search Term Length",
+        "filterCount": "Filter Count"
+      },
+      "availability": {
+        "available": "Available",
+        "registered": "Registered"
+      },
+      "noResultsData": "No search result data available"
+    }
+  },
+  "account": {
+    "profile": {
+      "title": "Profile",
+      "subtitle": "Update your personal information",
+      "avatar": {
+        "upload": "Upload new avatar",
+        "recommendation": "Square images recommended, max 2MB",
+        "alt": "User"
+      },
+      "email": {
+        "label": "Email",
+        "readonly": "Email address cannot be changed"
+      },
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "updating": "Updating...",
+      "saveButton": "Save Changes"
+    },
+    "info": {
+      "title": "Account Information",
+      "subtitle": "View your account details",
+      "accountId": "Account ID",
+      "loginMethod": "Login Method",
+      "google": "Google",
+      "email": "Email",
+      "createdAt": "Created At",
+      "lastSignIn": "Last Sign In",
+      "neverSignedIn": "Never signed in"
+    },
+    "dangerZone": {
+      "title": "Danger Zone",
+      "subtitle": "These actions are irreversible, please proceed with caution",
+      "deleteAccount": "Delete Account",
+      "deleteConfirmTitle": "Are you sure you want to delete your account?",
+      "deleteConfirmDescription": "This action will permanently delete your account and all related data. This action cannot be undone.",
+      "cancel": "Cancel"
+    },
+    "toast": {
+      "updateSuccess": "Update Successful",
+      "updateSuccessDesc": "Your profile has been updated",
+      "updateFailed": "Update Failed",
+      "updateFailedDesc": "Unable to update your profile, please try again",
+      "featureComingSoon": "Feature Coming Soon",
+      "avatarUploadSoon": "Avatar upload feature coming soon",
+      "uploadFailed": "Upload Failed",
+      "uploadFailedDesc": "Unable to upload avatar, please try again",
+      "deleteAccountSoon": "Account deletion feature coming soon"
+    }
+  },
+  "errors": {
+    "generic": "An error occurred",
+    "networkError": "Network error",
+    "serverError": "Server error",
+    "notFound": "Not found",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden",
+    "validationError": "Validation error",
+    "loadFailed": "Failed to load",
+    "saveFailed": "Failed to save",
+    "deleteFailed": "Failed to delete",
+    "createFailed": "Failed to create",
+    "updateFailed": "Failed to update"
+  },
+  "footer": {
+    "description": "Find the perfect name for your project. Smart Domain uses intelligent algorithms to help you discover ideal project names and available domains.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "favorites": "My Favorites",
+      "history": "Search History",
+      "settings": "Settings"
+    },
+    "resources": {
+      "title": "Resources",
+      "apiDocs": "API Documentation",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "help": "Help Center"
+    },
+    "copyright": "© {year} Smart Domain. All rights reserved.",
+    "madeWith": "Made with",
+    "by": "by Smart Domain Team"
+  },
+  "apiDocs": {
+    "title": "API Documentation",
+    "subtitle": "Integrate domain generation functionality into your application with Smart Domain API",
+    "features": {
+      "performance": {
+        "title": "High Performance",
+        "description": "Millisecond response times with support for batch requests and concurrent processing"
+      },
+      "security": {
+        "title": "Secure & Reliable",
+        "description": "OAuth 2.0 authentication, encrypted data transmission, 99.9% uptime guarantee"
+      },
+      "easyToUse": {
+        "title": "Easy to Use",
+        "description": "RESTful API design with comprehensive documentation and example code"
+      },
+      "global": {
+        "title": "Global Availability",
+        "description": "Multi-language support, global CDN acceleration, localized responses"
+      }
+    },
+    "quickStart": {
+      "title": "Quick Start",
+      "step1": {
+        "title": "1. Get API Key",
+        "description": "Generate your API key in the settings page. Each key has independent quotas and permission controls."
+      },
+      "step2": {
+        "title": "2. Send Request",
+        "description": "Use POST request to generate domain suggestions:"
+      },
+      "step3": {
+        "title": "3. Get Response",
+        "description": "API returns JSON response with domain suggestions and availability information:"
+      }
+    },
+    "endpoints": {
+      "title": "API Endpoints",
+      "generate": "Generate domain suggestions",
+      "history": "Get generation history",
+      "favorites": "Get favorites list",
+      "addFavorite": "Add to favorites"
+    },
+    "sdk": {
+      "title": "SDK Support",
+      "description": "We provide official SDKs for multiple programming languages to make integration even easier:"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: {date}",
+    "date": "July 2025",
+    "principles": {
+      "title": "Our Privacy Principles",
+      "dataMinimization": {
+        "title": "Data Minimization",
+        "description": "We only collect necessary information"
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Clear explanation of data usage"
+      },
+      "security": {
+        "title": "Secure Storage",
+        "description": "Encryption to protect your data"
+      }
+    },
+    "dataCollection": {
+      "title": "What Information We Collect",
+      "account": {
+        "title": "Account Information",
+        "items": [
+          "Email address (for account registration and notifications)",
+          "Username (optional)",
+          "Avatar (if you choose to upload)"
+        ]
+      },
+      "usage": {
+        "title": "Usage Data",
+        "items": [
+          "Domain search history (to provide history feature)",
+          "Favorited domains (for favorites feature)",
+          "API usage statistics (for quota management)"
+        ]
+      },
+      "technical": {
+        "title": "Technical Information",
+        "items": [
+          "IP address (for security and abuse prevention)",
+          "Browser type and version",
+          "Device information",
+          "Access time and page view history"
+        ]
+      }
+    },
+    "dataUsage": {
+      "title": "How We Use Your Information",
+      "items": [
+        "Provide, maintain, and improve our services",
+        "Process your requests and transactions",
+        "Send service-related notifications and updates",
+        "Analyze usage patterns to improve user experience",
+        "Protect service security and prevent fraud and abuse"
+      ]
+    },
+    "dataSharing": {
+      "title": "Data Sharing and Disclosure",
+      "noSelling": {
+        "title": "We Do Not Sell Your Personal Information",
+        "description": "We promise to never sell your personal information to third parties."
+      },
+      "sharingCases": "We may share your information in the following cases:",
+      "cases": [
+        "With your explicit consent",
+        "To comply with legal requirements",
+        "To protect our rights, property, or safety",
+        "With trusted service providers (such as hosting services)"
+      ]
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "description": "We take multiple security measures to protect your information:",
+      "measures": {
+        "encryption": {
+          "title": "Encrypted Transmission",
+          "description": "Using HTTPS to encrypt all data transmission"
+        },
+        "storage": {
+          "title": "Secure Storage",
+          "description": "Database encryption and access control"
+        },
+        "audit": {
+          "title": "Regular Audits",
+          "description": "Regular security audits and vulnerability scanning"
+        },
+        "response": {
+          "title": "Incident Response",
+          "description": "24-hour security incident response team"
+        }
+      }
+    },
+    "yourRights": {
+      "title": "Your Rights",
+      "description": "You have the following rights regarding your personal information:",
+      "access": {
+        "title": "Access Rights",
+        "description": "You can request access to a copy of your personal information we store"
+      },
+      "correction": {
+        "title": "Correction Rights",
+        "description": "You can request correction of inaccurate or incomplete personal information"
+      },
+      "deletion": {
+        "title": "Deletion Rights",
+        "description": "You can request deletion of your personal information (except where required by law)"
+      },
+      "portability": {
+        "title": "Data Portability Rights",
+        "description": "You can request to receive your personal information in a machine-readable format"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "If you have any questions or comments about our privacy policy, please contact us:",
+      "email": "privacy@smartdomain.com",
+      "alternative": "Or submit a request through the website's help center"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: {date} | Effective date: {effectiveDate}",
+    "date": "July 2025",
+    "effectiveDate": "July 1, 2025",
+    "importantNotice": {
+      "title": "Important Notice",
+      "description": "Please read these terms of service carefully. By using Smart Domain, you agree to be bound by these terms. If you do not agree to these terms, please do not use our service."
+    },
+    "overview": {
+      "title": "Terms Overview",
+      "freeUse": {
+        "title": "Free to Use",
+        "description": "Basic features are permanently free, paid features are optional"
+      },
+      "dataSecurity": {
+        "title": "Data Security",
+        "description": "Your data belongs to you, we are responsible for protecting it"
+      },
+      "fairUse": {
+        "title": "Fair Use",
+        "description": "Reasonable use, no abuse or malicious behavior"
+      },
+      "userResponsibility": {
+        "title": "User Responsibility",
+        "description": "Comply with laws and respect intellectual property rights"
+      }
+    },
+    "serviceDescription": {
+      "title": "1. Service Description",
+      "description": "Smart Domain (the \"Service\") is an intelligent domain generation and suggestion platform designed to help users find suitable domain names for their projects, businesses, or personal brands.",
+      "includes": "Our services include but are not limited to:",
+      "features": [
+        "AI-based domain generation suggestions",
+        "Real-time domain availability checking",
+        "Domain favorites and history management",
+        "API access (for developers)",
+        "Advanced features (paid subscription)"
+      ]
+    },
+    "usageTerms": {
+      "title": "2. Terms of Use",
+      "accountRegistration": {
+        "title": "2.1 Account Registration",
+        "items": [
+          "You must provide accurate and complete registration information",
+          "You are responsible for maintaining account security and password confidentiality",
+          "One person or entity can only register one account",
+          "You must be at least 13 years old to use this service"
+        ]
+      },
+      "acceptableUse": {
+        "title": "2.2 Acceptable Use",
+        "description": "You agree not to:",
+        "items": [
+          "Violate any applicable laws or regulations",
+          "Infringe on others' intellectual property or other rights",
+          "Spread malware or harmful code",
+          "Conduct automated attacks or abuse the service",
+          "Attempt to bypass usage restrictions or security measures",
+          "Resell or distribute the service without authorization"
+        ]
+      }
+    },
+    "intellectualProperty": {
+      "title": "3. Intellectual Property",
+      "yourContent": {
+        "title": "Your Content",
+        "description": "You retain all rights to content you create. By using our service, you grant us the necessary licenses to operate the service."
+      },
+      "ourContent": {
+        "title": "Our Content",
+        "description": "Smart Domain's software, design, text, graphics, and other content are protected by copyright and other intellectual property laws."
+      },
+      "domainSuggestions": {
+        "title": "Domain Suggestions",
+        "description": "Domain suggestions we generate do not constitute trademark or copyright claims. Users are responsible for ensuring selected domains do not infringe on others' rights."
+      }
+    },
+    "paidServices": {
+      "title": "4. Paid Services and Refunds",
+      "subscription": {
+        "title": "4.1 Subscription and Billing",
+        "items": [
+          "Paid subscriptions are billed monthly or annually",
+          "Prices may change but will not affect existing subscription periods",
+          "Auto-renewal can be canceled at any time"
+        ]
+      },
+      "refundPolicy": {
+        "title": "4.2 Refund Policy",
+        "highlight": "7-day unconditional refund",
+        "description": "New subscribers can request a full refund within 7 days of purchase without providing a reason."
+      }
+    },
+    "disclaimer": {
+      "title": "5. Disclaimer and Limitation of Liability",
+      "asIs": {
+        "title": "Service Provided \"As Is\":",
+        "description": "We strive to provide reliable service but cannot guarantee the service will always be available or error-free."
+      },
+      "domainAvailability": {
+        "title": "Domain Availability:",
+        "description": "Domain availability information is for reference only and may change at the time of actual registration."
+      },
+      "liability": {
+        "title": "Limitation of Liability:",
+        "description": "To the maximum extent permitted by law, Smart Domain is not liable for any indirect, incidental, special, or consequential damages."
+      }
+    },
+    "privacyAndData": {
+      "title": "6. Privacy and Data Protection",
+      "description": "Your privacy is important to us. Please review our privacy policy to understand how we collect, use, and protect your information.",
+      "commitment": "We are committed to protecting your data security and will not sell your personal information."
+    },
+    "termination": {
+      "title": "7. Termination",
+      "userTermination": "You may stop using our service and delete your account at any time.",
+      "ourRights": "We reserve the right to suspend or terminate your account in the following cases:",
+      "reasons": [
+        "Violation of these terms of service",
+        "Engaging in fraudulent or illegal activities",
+        "Abusing the service or causing harm to other users"
+      ]
+    },
+    "modifications": {
+      "title": "8. Modifications to Terms",
+      "description": "We may update these terms from time to time. For significant changes, we will notify you via email or in-service notification. Continued use of the service indicates acceptance of the modified terms."
+    },
+    "contactInfo": {
+      "title": "9. Contact Us",
+      "description": "If you have any questions about these terms of service, please contact us:",
+      "department": "Smart Domain Legal Department",
+      "email": "Email: legal@smartdomain.com",
+      "address": "Address: Pudong New Area, Shanghai, China"
+    }
+  },
+  "help": {
+    "title": "Help Center",
+    "subtitle": "Find answers, learn tips, or contact our support team",
+    "search": {
+      "placeholder": "Search help articles..."
+    },
+    "quickLinks": {
+      "quickStart": {
+        "title": "Quick Start",
+        "description": "5-minute getting started guide"
+      },
+      "tutorials": {
+        "title": "Tutorials",
+        "description": "Detailed feature explanations"
+      },
+      "billing": {
+        "title": "Billing",
+        "description": "Subscription and payment"
+      },
+      "support": {
+        "title": "Contact Support",
+        "description": "Get help"
+      }
+    },
+    "faq": {
+      "title": "FAQ Categories",
+      "gettingStarted": {
+        "title": "Getting Started",
+        "questions": [
+          "How to create an account?",
+          "How to generate domain suggestions?",
+          "What is the smart naming algorithm?",
+          "How to save favorite domains?"
+        ]
+      },
+      "features": {
+        "title": "Features",
+        "questions": [
+          "How to use advanced filtering?",
+          "How to export domain lists?",
+          "How long is history saved?",
+          "How to share domain suggestions?"
+        ]
+      },
+      "billing": {
+        "title": "Billing and Subscription",
+        "questions": [
+          "What subscription plans are available?",
+          "How to upgrade subscription?",
+          "How to cancel subscription?",
+          "What payment methods are supported?"
+        ]
+      },
+      "api": {
+        "title": "API Development",
+        "questions": [
+          "How to get API key?",
+          "What are the API rate limits?",
+          "How to handle API errors?",
+          "Are there code examples?"
+        ]
+      }
+    },
+    "popularArticles": {
+      "title": "Popular Articles",
+      "articles": [
+        {
+          "title": "Complete Guide: From Beginner to Expert",
+          "description": "Learn all features of Smart Domain and become a domain generation expert",
+          "readTime": "5 min read"
+        },
+        {
+          "title": "10 Tips: Finding the Perfect Domain",
+          "description": "Professional advice to help you choose a memorable domain",
+          "readTime": "3 min read"
+        },
+        {
+          "title": "API Integration Best Practices",
+          "description": "Seamlessly integrate Smart Domain API into your application",
+          "readTime": "8 min read"
+        }
+      ]
+    },
+    "contactSupport": {
+      "title": "Still Need Help?",
+      "description": "Our support team is ready to help you. Contact us via email or live chat.",
+      "emailButton": "Send Email",
+      "chatButton": "Live Chat",
+      "workingHours": "Working hours: Monday to Friday 9:00-18:00 (UTC+8)"
+    }
+  }
+}
