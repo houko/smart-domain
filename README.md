@@ -81,7 +81,7 @@ AI-powered intelligent domain name generation and management platform that helps
 
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/your-username/smart-domain.git
+git clone https://github.com/houko/smart-domain.git
 cd smart-domain
 pnpm install
 ```
@@ -265,13 +265,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Live Demo**: [https://smart-domain.vercel.app](https://smart-domain.vercel.app)
-- **Issues**: [GitHub Issues](https://github.com/your-username/smart-domain/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/smart-domain/discussions)
+- **Issues**: [GitHub Issues](https://github.com/houko/smart-domain/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/houko/smart-domain/discussions)
 
 ---
 
 <div align="center">
 Made with ❤️ by the Smart Domain team
 <br />
-<a href="https://github.com/your-username/smart-domain/stargazers">⭐ Star us on GitHub</a>
+<a href="https://github.com/houko/smart-domain/stargazers">⭐ Star us on GitHub</a>
 </div>

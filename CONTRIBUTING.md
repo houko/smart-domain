@@ -5,13 +5,13 @@ Thank you for your interest in contributing to Smart Domain Generator! This docu
 ## 🤝 How to Contribute
 
 ### Reporting Issues
-- Use the [GitHub Issues](https://github.com/your-username/smart-domain/issues) page
+- Use the [GitHub Issues](https://github.com/houko/smart-domain/issues) page
 - Search existing issues before creating a new one
 - Provide clear, detailed descriptions with steps to reproduce
 - Include screenshots or code snippets when helpful
 
 ### Suggesting Features
-- Open a [GitHub Discussion](https://github.com/your-username/smart-domain/discussions) first
+- Open a [GitHub Discussion](https://github.com/houko/smart-domain/discussions) first
 - Describe the feature and its benefits
 - Consider creating a simple mockup or wireframe
 
@@ -36,7 +36,7 @@ Thank you for your interest in contributing to Smart Domain Generator! This docu
 ### Local Development
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/smart-domain.git
+git clone https://github.com/houko/smart-domain.git
 cd smart-domain
 
 # Install dependencies
@@ -226,7 +226,7 @@ Project maintainers are responsible for clarifying and enforcing standards. Inap
 ## 📞 Contact
 
 For questions about contributing, please:
-- Open a [GitHub Discussion](https://github.com/your-username/smart-domain/discussions)
+- Open a [GitHub Discussion](https://github.com/houko/smart-domain/discussions)
 - Create an issue with the "question" label
 - Reach out to maintainers through GitHub
 
